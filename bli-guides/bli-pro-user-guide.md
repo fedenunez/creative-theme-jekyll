@@ -52,7 +52,7 @@ Correct time setting is important for the monitoring of events, astronomic clock
 work even if the time setting is not correct. The date and time settings can be synchronized with universal time servers (recommended) if the 
 _BLI PRO_ has access to the Internet. Else date and time can be set manually. 
 
-![Date & Time](pictures/pro-guide/setup-date-time.png)
+<img src="pictures/pro-guide/setup-date-time.png" class="img-fluid" alt="Date and Time page"/>
 
 ##### Date & Time settings 
 
@@ -82,7 +82,7 @@ values above this range.
 
 Network page contains network connectivity configuration of _BLI_.
 
-![Network configuration](pictures/pro-guide/network.png)
+<img src="pictures/pro-guide/network.png" class="img-fluid" alt="Network page"/>
 
 The following options are:
 
@@ -114,7 +114,7 @@ This setting only affects what is displayed on _BLI PRO_ user interfaces. It doe
 
 ### Zones
 
-![Zones](pictures/pro-guide/zones.png)
+<img src="pictures/pro-guide/zones.png" class="img-fluid" alt="Zones page"/>
 
 Everything in _BLI_ is organized into zones. Zones represent rooms or other locations in the home such as kitchen, hallway, garden, garage, etc.
 In order to accomodate for big installations, zones themselves are organized into areas. Examples of areas are: upstairs and downstairs, guest house, barbecue.
@@ -206,7 +206,7 @@ be fetched by using the Capture function or made manually. The Import resources 
 
 #### BeoLink resources
 
-![BeoLink resources](pictures/pro-guide/resources-beolink.png)
+<img src="pictures/pro-guide/resources-beolink.png" class="img-fluid" alt="BeoLink resources page"/>
 
 The resources have the following parameters:
 
@@ -218,7 +218,7 @@ The resources have the following parameters:
 
 #### Home Automation system resources
 
-![KNX resources](pictures/pro-guide/resources-other.png)
+<img src="pictures/pro-guide/resources-other.png" class="img-fluid" alt="Resources page"/>
 
 The resources have the following parameters:
 
@@ -241,7 +241,7 @@ variables of String, Integer and Boolean type for systems, without implementing 
 displaying scene buttons. Virtual Resources have no functionality by themselves. _[Macros](#macros)_ must be defined to link user actions on a 
 virtual resource, with events and commands in the systems.
 
-![Virtual resources](pictures/pro-guide/resources-virtual.png)
+<img src="pictures/pro-guide/resources-virtual.png" class="img-fluid" alt="Virtual resources page"/>
 
 The address of a Virtual Resource is a unique number and if isn't setted manually, _BLI PRO_ generates automatically an un-used address for that 
 resource. 
@@ -252,13 +252,13 @@ The interaction between the devices connected to the _BLI_ is defined by means o
 When any of the events that are defined in a macro occur (e.g. a key press on a keypad; a Control Command on a Bang & Olufsen remote control etc.)
 , the macro will be triggered. This means that the commands in the macro will be executed in order. 
 
-![Macros](pictures/pro-guide/macros.png)
+<img src="pictures/pro-guide/macros.png" class="img-fluid" alt="Macros page"/>
 
 A macro is also assigned to an _Area/Zone_ to which it belongs even if it handles activity outside the zone. Having macros assigned to zones helps 
 when setting up user interfaces. The left column shows all _Macros_ contained in each _Area/Zone_. To add a macro in a specific _Area/Zone_ press 
 **+**-sign button in the column entry. 
 
-For each macro, the next buttons are availabe:
+For each macro, the next buttons are available:
 
 + _Add event_: used to add an _Event_ to _Macro_. The two buttons (see above) that can be used to set the cinema scene. See 
 _[Resource Event](#resource-event)_ section.
@@ -388,7 +388,7 @@ The resources to be accessed via the user interfaces are configured in this page
 Configurations are synchronized in real time towards the Webpanel and the TV overlay menu. The synchronization with the _BLApp_ is done
 when activating **Configuration > Save revision**.
 
-![Interfaces](pictures/pro-guide/interfaces.png)
+<img src="pictures/pro-guide/interfaces.png" class="img-fluid" alt="Interfaces page"/>
 
 #### Users - admin
 
@@ -405,7 +405,7 @@ Press the _admin_ entry in the left column to change password (see figure above)
 
 To add a new user press **+**-sign in header **Users** of left column.
 
-![Interfaces](pictures/pro-guide/interfaces.png)
+<img src="pictures/pro-guide/interfaces-users.png" class="img-fluid" alt="User creation page"/>
 
 ##### User properties
 
@@ -571,7 +571,7 @@ The menu can be used for the following:
 generated will be monitored by the tool.
 + To check whether macros and the belonging commands are working as intended.
 
-![Monitor](pictures/pro-guide/monitor.png)
+<img src="pictures/pro-guide/monitor.png" class="img-fluid" alt="Monitor page"/>
 
 On the upper-right side of _Monitor_´s page, it´s located a filter tool to facilitate the processing of _Monitor_ information.
 
@@ -580,7 +580,7 @@ On the upper-right side of _Monitor_´s page, it´s located a filter tool to fac
 _Resource states_ shows a table of all resources in the installation and their current states. For each row, you could find the resource name at first
 column and all states in the second one. 
 
-![Resource states](pictures/pro-guide/resource-states.png)
+<img src="pictures/pro-guide/resource-states.png" class="img-fluid" alt="Resource states page"/>
 
 In the upper-right you could find a _Filter_ tool where you could filter by resource name or state.
 
@@ -589,7 +589,8 @@ In the upper-right you could find a _Filter_ tool where you could filter by reso
 _Log_ shows system messages concerning the interaction between the _BLI PRO_ and external devices connected, such as application errors and 
 critical system errors.
 
-![Log](pictures/pro-guide/log.png)
+<img src="pictures/pro-guide/log.png" class="img-fluid" alt="Log page"/>
+
 
 The log menu can be used to:
 
@@ -605,7 +606,7 @@ When any hardware or software error is experienced it is possible to create a se
 
 You must fill the form showed in that page. This information is essential to reproduce and fix any issue you are experiencing.
 
-![Service report](pictures/pro-guide/service-report.png)
+<img src="pictures/pro-guide/service-report.png" class="img-fluid" alt="Service report page"/>
 
 Service reports are created and downloaded when the _Save_ button is clicked.
 
@@ -624,7 +625,7 @@ Press the _Choose File_ to select your local _BLI_ firmware file. Automatically 
 
 For performing an online update to the _BLI_ Firmware you must ensure that LAN network has Internet connection.
 
-![Firmware update](pictures/pro-guide/firmware.png)
+<img src="pictures/pro-guide/firmware.png" class="img-fluid" alt="Firmware page"/>
 
 + _Check for the latest version_: After pressed, the lastest official Firmware version will be displayed, if available.
 + _Start online update_: If a new Firmware version is available for download, pressing this button will start the Firmware download and installation process.
@@ -645,7 +646,7 @@ Logout of the current logged in user.
 _Programming report_ is an effective tool to find which Macros interact with a specific _Resource_ or _System_, really useful when _BLI PRO_ 
 contains many of them in his configuration. 
 
-![Programming report](pictures/pro-guide/programming-report.png)
+<img src="pictures/pro-guide/programming-report.png" class="img-fluid" alt="Programming report page"/>
 
 Left column contains each pair of _Area/Zone_ that contains at least one resource or system. For each resource or system in a column, the next 
 information will be displayed:
@@ -676,7 +677,7 @@ language. For more information regarding development of _BLI PRO_ custom drivers
 As explained in *[Systems](#systems)* section, external drivers are located in our own repository from where they could be installed in your _BLI 
 PRO_ if internet connection is available.
 
-![External drivers](pictures/pro-guide/external-drivers.png)
+<img src="pictures/pro-guide/external-drivers.png" class="img-fluid" alt="External drivers page"/>
 
 The list of all available external drivers could be obtained by pressing _Update drivers list from remote repository_ button and _Show only 
 installed drivers_ button will display external drivers currently installed. Also, next to the mentioned buttons, a _Filter_ tool is placed for 
