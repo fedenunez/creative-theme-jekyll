@@ -3,9 +3,9 @@
 
   {% include head.html %}
 
-  <body id="page-top" data-spy="scroll" data-target="#toc" data-offset="60">
+  <body id="page-top"  data-spy="scroll" data-target="#toc" data-offset="0"  >
 
-    {% include nav.html %}
+  {% include nav.html %}
 
     <header class="text-center text-white d-flex bg-primary" style="min-height:50%; background-image: none;">
     <div class="container my-auto">
@@ -24,27 +24,39 @@
     <div class="container">
       <div class="row">
         <div class="col-sm-3">
-          <nav id="toc" data-toggle="toc" class="sticky-top" style="top: 60px">
+          <nav id="toc" class="sticky-top" style="top: 60px">
           </nav>
         </div>
 
-          <style>
+        <style>
             /* As we have a fixed navbar on top just add so padding so we are sure 
             that the text is visible when accessed from anchor link */
             .pagecontent h1, .pagecontent h2, .pagecontent h3, .pagecontent h4
             {
               padding-top:60px;
             }
-          </style>
-        <div class="col-sm-9 pagecontent">
+        </style>
+        <div id="pagecontent" class="col-sm-9 pagecontent">
           {{ content }}
-        </div>
+          </div>
       </div>
     </div>
     </section>
     {% include scripts.html %}
+    
     <!-- add after bootstrap.min.js -->
     <script src="https://cdn.rawgit.com/afeld/bootstrap-toc/v1.0.0/dist/bootstrap-toc.min.js"></script>
+    <script> 
+      $(function() {
+        var navSelector = '#toc';
+        var $myNav = $(navSelector);
+        Toc.init($myNav);
+        $('body').scrollspy({
+          target: navSelector
+        });
+      });
+    </script> 
+
   </body>
 
 </html>
