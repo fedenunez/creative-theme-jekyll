@@ -1,4 +1,7 @@
-# BeoLiving Intelligence PRO User Guide
+---
+title: BeoLiving Intelligence PRO User Guide
+layout: pagetoc
+---
 
 ## Introduction
 
