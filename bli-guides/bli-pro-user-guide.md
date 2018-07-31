@@ -29,63 +29,6 @@ _BeoLiving Intelligence PRO_ web interface is the most important tool for config
 
 TODO: Diagram
 
-## Home Automation systems supported
-
-In _BLI PRO_ exists two types of drivers for home automation systems:
-
-+ Native driver: Comes included in your _BLI PRO_ firmware.
-+ Cloud driver: Driver ready to be downloaded to your _BLI PRO_ from our Cloud driver repository.
-
-Cloud drivers list increase quickly and some of them are contributed by our community. May some of them are not tested deeply, so please write
- us at _support@khimo.com_ in case of bugs/malfunction detected of any system driver or simply just to contribute with a new driver.
-
-| Home Automation system                                             | Ethernet connection | RS232 connection | RS485 connection | Cloud driver |
-|--------------------------------------------------------------------|---------------------|------------------|------------------|--------------|
-| 2N Helios                                                          |          +          |                  |                  |       +      | 
-| Clipsal                                                            |          +          |                  |                  |              |
-| Conson Concept XP (converter from RS485 to RS232 is needed)        |                     |                  |         +        |              |
-| Custom Strings                                                     |          +          |        +         |                  |              |
-| Custom HTTP                                                        |          +          |                  |                  |              | 
-| DigitalSTROM                                                       |          +          |                  |                  |       +      |
-| DoorBird                                                           |          +          |                  |                  |       +      |
-| Dooya                                                              |          +          |                  |                  |       +      |
-| Dynalite                                                           |                     |        +         |                  |              |
-| ecobee Thermostat                                                  |          +          |                  |                  |              | 
-| FC3500 Thermostat                                                  |          +          |                  |                  |       +      |
-| Global Cache iTach IP2CC                                           |          +          |                  |                  |              | 
-| Global Cache iTach IP2IR                                           |          +          |                  |                  |              | 
-| Global Cache iTach IP2SL                                           |          +          |                  |                  |              | 
-| Honeywell Vista128BPT                                              |                     |        +         |                  |       +      |
-| iTach Flex Relay & Sensor                                          |          +          |                  |                  |       +      |
-| iTach Flex Infrared                                                |          +          |                  |                  |       +      |
-| iTach Flex Serial                                                  |          +          |                  |                  |       +      |
-| KNX (EIB KNX, Busch Jaeger)                                        |          +          |                  |                  |              | 
-| KNX (FT 1.2, PEI-IOmode)                                           |                     |        +         |                  |              |
-| KNXnet (IP tunneling)                                              |          +          |                  |                  |              | 
-| Legrand Bticino                                                    |          +          |                  |                  |              |
-| LK IHC (Intelligent House Control, Viewer models only, LexControl) |          +          |                  |                  |              |
-| Lutron: Grafik Eye (GRX), Grafik QS (QSE), Radio RA                |          +          |        +         |                  |              | 
-| Lutron: Home Works QS, Home Works Radio Ra2                        |          +          |        +         |                  |              |
-| Lutron Home Works Interactive                                      |          +          |        +         |                  |              |
-| Nest                                                               |          +          |                  |                  |              | 
-| Open Weather                                                       |          +          |                  |                  |              | 
-| Phillips Hue                                                       |          +          |                  |                  |              |
-| QMotion QIS Shades                                                 |          +          |        +         |                  |       +      |
-| Rako                                                               |          +          |                  |                  |       +      |
-| Smart House                                                        |          +          |                  |                  |              |
-| Smart House-SH2                                                    |          +          |                  |                  |              | 
-| Tekmar                                                             |          +          |                  |                  |              | 
-| TP-Link Smart Plug                                                 |          +          |                  |                  |       +      |
-| Twitter                                                            |          +          |                  |                  |              | 
-| Vantage                                                            |          +          |                  |                  |              | 
-| Velux                                                              |          +          |                  |                  |              |
-| Velux KLF200                                                       |          +          |                  |                  |       +      |
-| Vitrea                                                             |          +          |                  |                  |       +      |
-| WeMo Coffee Maker                                                  |          +          |                  |                  |       +      |
-| WeMo Insight Switch                                                |          +          |                  |                  |       +      |
-| WeMo Air Purifier                                                  |          +          |                  |                  |       +      |
-| WeMo Slow Cooker                                                   |          +          |                  |                  |       +      |
-
 ## Set up the BeoLiving Intelligence PRO
 
 Setup interface is the most important tool for configuration/programming of your _BLI PRO_. The following sections will guide you through the entire web interface configuration tool.  
@@ -208,7 +151,7 @@ Is up to the installer to move those products into their respective _Area/Zone_.
 
 ### Systems
 
-The systems settings is for setting-up systems connected to _BLI PRO_. BeoLink systems and Home Automation systems are ‘systems’.
+The systems settings is for setting-up systems connected to _BLI PRO_. BeoLink system and Home Automation systems are ‘systems’. Example of supported systems are: Nest, Philips Hue, Lutron, KNX. Check [Systems Drivers PRO](../bli-help-files/drivers/index.md) page to know all Home Automation systems that _BLI PRO_ supports.
 
 Each system has in _BLI PRO_ a correspondant driver. There are two driver types:
 
