@@ -1,4 +1,7 @@
-# BeoLiving Intelligence - FAQ
+---
+title:  BeoLiving Intelligence - FAQ
+layout: pagetoc
+---
 
 ### Where can I find documentation related to _BeoLiving Intelligence_ usage and configuration?
 

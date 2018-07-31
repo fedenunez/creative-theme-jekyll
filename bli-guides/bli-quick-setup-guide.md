@@ -1,4 +1,7 @@
-# BeoLiving Intelligence Quick Setup Guide
+---
+title: BeoLiving Intelligence Quick Setup Guide
+layout: pagetoc
+---
 
 _BeoLiving Intelligence_ is a Plug & Play home automation controller. The next steps show how to quickly set your _BeoLiving Intelligence_ up and ready for basic use. Illustrations of basic usage examples are shown.
 
