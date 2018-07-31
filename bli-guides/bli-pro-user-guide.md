@@ -160,7 +160,8 @@ Each system has in _BLI PRO_ a correspondant driver. There are two driver types:
 
 In this section, only _Native drivers_ will be included. Go to *[External drivers](#external-drivers)* section for more information.
 
-![Systems](pictures/pro-guide/systems.png)
+<img src="pictures/pro-guide/systems.png" class="img-fluid" alt="Systems page"/>
+
 
 #### System settings
 
