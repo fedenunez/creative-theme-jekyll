@@ -151,7 +151,7 @@ Is up to the installer to move those products into their respective _Area/Zone_.
 
 ### Systems
 
-The systems settings is for setting-up systems connected to _BLI PRO_. BeoLink system and Home Automation systems are ‘systems’. Example of supported systems are: Nest, Philips Hue, Lutron, KNX. Check [Systems Drivers PRO](../bli-help-files/drivers/index.md) page to know all Home Automation systems that _BLI PRO_ supports.
+The systems settings is for setting-up systems connected to _BLI PRO_. BeoLink system and Home Automation systems are ‘systems’. Example of supported systems are: Nest, Philips Hue, Lutron, KNX. Check [Systems Drivers PRO](../bli-help-files/drivers/main.md) page to know all Home Automation systems that _BLI PRO_ supports.
 
 Each system has in _BLI PRO_ a correspondant driver. There are two driver types:
 
