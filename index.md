@@ -38,51 +38,53 @@ The main additions of the _BeoLiving Intelligence PRO_ upgrade are:
 
 Follow this guide to quickly set up your BeoLiving Intelligence and know the basics to start using it.
 
-<div style="margin:auto; width: 500px; margin-top: 40px">
-   <div style="float:center">
-      <div align="center">
-         <input type="image" src="icons/quickstart.png" height="100px" onclick="location.href='bli-guides/bli-quick-setup-guide.html'"/>
-      </div>
-      <p align="center"><strong>Quick setup guide</strong></p>
+<div class="row justify-content-md-center">
+    <div class="col col-lg-2">
+     <div align="center"> 
+      <a class="btn" href="/bli-guides/bli-quick-setup-guide.html">
+	<i class="fa fa-rocket fa-5x"></i><br>Quick setup guide</a>
+     </div>
    </div>
-</div>
+ </div>
  
 ## Advanced
 
 If you already have some basic knowledge of the usage of BeoLiving Intelligence, read the _Advanced user guide_ to learn more advanced features. If you want to learn how to link your BeoLiving Intelligence with one of the available third parties, refer to the _Link to third parties guide_.
 
-<div style="margin:auto; width: 500px; display: flex; justify-content: space-evenly; margin-top: 40px">
-   <div>
-      <div align="center">
-         <input src="icons/guides.png" onclick="location.href='bli-guides/bli-advanced-user-guide.html'" type="image" height="100px">
+<div class="row justify-content-md-center">
+    <div class="col-md-auto"> 
+     <div align="center">
+       <a class="btn" href="/bli-guides/bli-advanced-user-guide.html">
+	 <i class="fa fa-book fa-5x"></i><br>Advanced user guide</a>
       </div>
-      <p align="center"><strong>Advanced user guide</strong></p>
-   </div>
-   <div>
-      <div align="center">
-         <input src="icons/thirdparties.png" onclick="location.href='bli-guides/bli-link-third-party-service.html'" type="image" height="100px">
-      </div>
-      <p align="center"><strong>Link to third parties guide</strong></p>
-   </div>
+    </div>
+    <div class="col-md-auto">
+     <div align="center">
+       <a class="btn" href="/bli-guides/bli-link-third-party-service.html">
+	 <i class="fa fa-cloud fa-5x"></i><br>Link to third parties guide</a>
+       </div>
+    </div>
 </div>
+
+
 <a id="PRO"/>
 ## PRO
 
 If you want your BeoLiving Intelligence to be in its full capabilities upgrade it to PRO and learn the new features by following the _PRO user guide_. Refer to the _System drivers guide_ if you want information about a specific supported driver.
 
-<div style="margin:auto; width: 500px; display: flex; justify-content: space-evenly; margin-top: 40px">
-   <div>
-      <div align="center">
-         <input src="icons/guides.png" onclick="location.href='bli-guides/bli-pro-user-guide.html'" type="image" height="100px">
+<div class="row justify-content-md-center">
+    <div class="col-md-auto">
+      <div align="center"> 
+ 	<a class="btn" href="/bli-guides/bli-pro-user-guide.html">
+	 <i class="fa fa-book fa-5x"></i><br>PRO user guide</a>
       </div>
-      <p align="center"><strong>PRO user guide</strong></p>
-   </div>
-   <div>
-      <div align="center">
-         <input src="icons/systems.png" onclick="location.href='bli-help-files/drivers/main.html'" type="image" height="100px">
+    </div>
+    <div class="col-md-auto">
+     <div align="center"> 
+	<a class="btn" href="/bli-help-files/drivers/main.html">
+	 <i class="fa fa-home fa-5x"></i><br>System drivers guide</a>
       </div>
-      <p align="center"><strong>System drivers guide</strong></p>
-   </div>
+    </div>
 </div>
 
   
@@ -92,39 +94,19 @@ If you want your BeoLiving Intelligence to be in its full capabilities upgrade i
 
 Have a question? You can find the answers for the most common questions in our _Frequently Asked Question_ document. If you are experience troubles refer to our _troubleshooting_ guide
 
-<div style="display:flex; flex-direction: column; margin-top: 40px"> 
-
- <div style="margin:auto; width: 500px; display: flex; justify-content: space-evenly;">
-   <div>
-      <div align="center">
-         <input src="icons/faq.png" onclick="location.href='bli-guides/bli-faq.html'" type="image" height="100px">
+<div class="row justify-content-md-center">
+    <div class="col-md-auto">
+     <div align="center"> 
+ 	<a class="btn" href="/bli-guides/bli-faq.html">
+	 <i class="fa fa-question-circle fa-5x"></i><br>FAQ</a>
       </div>
-      <p align="center"><strong>FAQ</strong></p>
-   </div>
-   <div>
-      <div align="center">
-         <input src="icons/troubleshooting.png" onclick="location.href='bli-guides/bli-service-troubleshooting.html'" type="image" height="100px">
+    </div>
+    <div class="col-md-auto">
+      <div align="center">  
+	<a class="btn" href="/bli-guides/bli-troubleshooting.html">
+	 <i class="fa fa-cogs fa-5x"></i><br>Troubleshooting</a>
       </div>
-      <p align="center"><strong>Service troubleshooting</strong></p>
-   </div>
-</div>
-
-<div style="margin:auto; width: 500px; display: flex; justify-content: space-evenly;">
-   <div>
-      <div align="center">
-         <input src="icons/troubleshooting.png" onclick="location.href='bli-guides/bli-troubleshooting.html'" type="image" height="100px">
-      </div>
-      <p align="center"><strong>Troubleshooting</strong></p>
-   </div>
-   <div>
-      <div align="center">
-         <input src="icons/recovery.png" onclick="location.href='bli-guides/bli-recovery-mode-guide.html'" type="image" height="100px">
-      </div>
-      <p align="center"><strong>Recovery mode guide</strong></p>
-   </div>
-</div>
-
-
+    </div>
 </div>
  
   
