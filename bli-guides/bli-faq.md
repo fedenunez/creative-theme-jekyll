@@ -3,7 +3,7 @@ title:  BeoLiving Intelligence - FAQ
 layout: pagetoc
 ---
 
-### Where can I find documentation related to _BeoLiving Intelligence_ usage and configuration?
+### Where can I find documentation for the _BeoLiving Intelligence_?
 
 All documents regarding _BeoLiving Intelligence_ usage, configuration and programming are accessible at [](****LINK****).
 
@@ -31,7 +31,7 @@ Refer to our specific guide: [BeoLiving Intelligence link to 3rd party Cloud Ser
 
 Refer to our specific guide: [BeoLiving Intelligence link to 3rd party Cloud Service guide](bli-link-third-party-service.md).
 
-### How to and where to report any issue with my _BeoLiving Intelligence_?
+### How do I report an issue with my _BeoLiving Intelligence_?
 
 Refer to our specific guide: [BeoLiving Intelligence Troubleshooting guide](bli-troubleshooting.md). You will find instructions about how to proceed in case
  of error reporting.
@@ -41,7 +41,7 @@ Refer to our specific guide: [BeoLiving Intelligence Troubleshooting guide](bli-
 Refer to our specific guide: [BeoLiving Intelligence Troubleshooting guide](bli-troubleshooting.md). You will find instructions to follow in case your 
 _BeoLiving Intelligence_ isn't responding or isn't returning to a normal operation mode.
 
-### Can not establish connection between a certain HA system and _BeoLiving Intelligence_, what should I do? 
+### Can not establish connection with a certain HA system, what should I do? 
 
 Check that _BeoLiving Intelligence_ and the HA system are connected to the same _LAN_ network. Check connectivity for each system (e.g.: ping 
 _BeoLiving Intelligence_ and HA system).
@@ -74,7 +74,7 @@ _BeoLiving Intelligence_ Led color displays the actual state of your _BeoLiving 
 | Boot                           | Transition Red / Yellow    |
 
 
-### What are the differences between _BeoLiving Intelligence_ and _BeoLiving Intelligence PRO_?
+### What are the upgrades in the _BeoLiving Intelligence PRO_?
 
 _BeoLiving Intelligence_ has most of his capabilities reduced. Upgrading your _BeoLiving Intelligence_ to _BeoLiving Intelligence PRO_, will let you experience all your _BeoLiving Intelligence_ can offer, as the next table
  shows:
@@ -96,7 +96,7 @@ _BeoLiving Intelligence_ has most of his capabilities reduced. Upgrading your _B
 
 Remote access is available in all firmware versions of _BeoLiving Intelligence_. You can activate it by going to your _BeoLiving Intelligence_ settings in the _BLApp_.
 
-### Can I control my _BeoLiving Intelligence_ with my phone/voice/PC/TV?
+### How can I control my _BeoLiving Intelligence_?
 
 _BeoLiving Intelligence_ has multiple ways of user interfaces for control your building. From factory, _BeoLiving Intelligence_ could be controlled only by _BeoLiving App_ and _Voice_ 
 (linking your _BeoLiving Intelligence_ with _Alexa_). After upgrading your _BeoLiving Intelligence_ to _BeoLiving Intelligence PRO_, control through _BeoLiving Intelligence_ web interface and _Home 
