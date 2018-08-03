@@ -23,7 +23,7 @@ by the serial number located on the bottom of the _BeoLiving Intelligence_.
 + After that, return to the _BeoLiving App_ main screen and your _BeoLiving Intelligence_ should appear.
 
 <div class="row justify-content-center">
-  <div class="col-5">     
+  <div class="col-sm-5">     
 	<div class="embed-responsive" style="padding-bottom: 179%;">
 	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CYR0xTfqh7o?autoplay=1&loop=1&playlist=CYR0xTfqh7o"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
@@ -40,7 +40,7 @@ by the serial number located on the bottom of the _BeoLiving Intelligence_.
 + You can add more products to that zone, change a product from zone, or create more zones by pressing "Edit products". Note that only one icon per type of product will appear in the zone.
 
 <div class="row justify-content-center">
-  <div class="col-5">     
+  <div class="col-sm-5">     
 	<div class="embed-responsive" style="padding-bottom: 179%;">
 	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9edtGSMGeNg?autoplay=1&loop=1&playlist=9edtGSMGeNg"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
@@ -55,7 +55,7 @@ by the serial number located on the bottom of the _BeoLiving Intelligence_.
 + Once a source is selected, controls will be shown on the main screen. What you control depends on the device and the source you have selected. You can control things such as volume, selecting content, play, pause, etc.
 
 <div class="row justify-content-center">
-  <div class="col-5">     
+  <div class="col-sm-5">     
 	<div class="embed-responsive" style="padding-bottom: 179%;">
 	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VlGNc97i_pU?autoplay=1&loop=1&playlist=VlGNc97i_pU"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
@@ -74,7 +74,7 @@ _BeoLiving Intelligence_ Scenes are the way you can control several products at 
 + To fire a scene just press the name of it, or you can click on the clock icon to schedule it for certain time or day.
 
 <div class="row justify-content-center">
-  <div class="col-5">     
+  <div class="col-sm-5">     
 	<div class="embed-responsive" style="padding-bottom: 179%;">
 	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpFUk5OeHDg?autoplay=1&loop=1&playlist=zpFUk5OeHDg"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
@@ -92,7 +92,7 @@ Creating a group of Bang & Olufsen products lets you control all of them as if t
 + After that, whenever content is reproduced in the _master_ it will be reporduced automatically in the rest of the products of the group.
 
 <div class="row justify-content-center">
-  <div class="col-5">     
+  <div class="col-sm-5">     
 	<div class="embed-responsive" style="padding-bottom: 179%;">
 	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VSwNKgSssI8?autoplay=1&loop=1&playlist=VSwNKgSssI8"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
