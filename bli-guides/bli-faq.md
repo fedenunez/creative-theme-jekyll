@@ -31,6 +31,15 @@ Refer to our specific guide: [BeoLiving Intelligence link to 3rd party Cloud Ser
 
 Refer to our specific guide: [BeoLiving Intelligence link to 3rd party Cloud Service guide](bli-link-third-party-service.md).
 
+### How can I control my devices with Alexa? What to say?
+
+Refer to our specific guide: [BeoLiving Intelligence Alexa skill guide](bli-alexa.md).
+
+### Can't link IFTTT or Alexa with _BeoLiving Intelligence_
+
+Make sure you first enabled _Remote Access_ of your _BeoLiving Intelligence_ through _BeoLiving App_. Refer to [BeoLiving Intelligence Quick Setup
+ guide](bli-quick-setup-guide.md) for a detailed description. 
+
 ### How do I report an issue with my _BeoLiving Intelligence_?
 
 Refer to our specific guide: [BeoLiving Intelligence Troubleshooting guide](bli-troubleshooting.md). You will find instructions about how to proceed in case
@@ -81,15 +90,15 @@ _BeoLiving Intelligence_ has most of his capabilities reduced. Upgrading your _B
 
 | Functionalities                                                                                | _BeoLiving Intelligence_ | _BeoLiving Intelligence PRO_ |
 |------------------------------------------------------------------------------------------------|-------|-----------|
-| Control _B&O NetworkLink_ products                                                             | **X** |   **X**   | 
-| Remote access                                                                                  | **X** |   **X**   |
-| Alexa, IFTTT integration                                                                       | **X** |   **X**   |
-| Configuration with _BeoLiving App_ (Limited compared with configuration through web interface) | **X** |   **X**   | 
-| Control over _BeoLiving App_                                                                   | **X** |   **X**   |
-| Configuration with web interface                                                               |       |   **X**   |
-| Control over _WebPanel_ (Browser) and TV's _Home Control_                                      |       |   **X**   |
-| Integration with _Home Automation_ systems                                                     |       |   **X**   | 
-| Customization of _BeoLiving App_ intallation control                                           |       |   **X**   | 
+| Control _B&O NetworkLink_ products                                                             | **+** |   **+**   | 
+| Remote access                                                                                  | **+** |   **+**   |
+| Alexa, IFTTT integration                                                                       | **+** |   **+**   |
+| Configuration with _BeoLiving App_ (Limited compared with configuration through web interface) | **+** |   **+**   | 
+| Control over _BeoLiving App_                                                                   | **+** |   **+**   |
+| Configuration with web interface                                                               |       |   **+**   |
+| Control over _WebPanel_ (Browser) and TV's _Home Control_                                      |       |   **+**   |
+| Integration with _Home Automation_ systems                                                     |       |   **+**   | 
+| Customization of _BeoLiving App_ intallation control                                           |       |   **+**   | 
 
 
 ### Can I controll my devices outside my house?
@@ -119,14 +128,14 @@ _BeoLiving Intelligence_ supports any _Bang & Olfusen NetworkLink_ TV or speaker
 * _ALARM_: Alarm system. 
 
 All of these resources are called "_Standard resources_" and most of them (less the _GPIO_'s) have a graphic representation in each user 
-interface. On the other hand, _BeoLiving Intelligence_ also supports "_Custom resources_" that system dependent and can not be represented as a standard resource. 
-Those don't have a graphic respresentation in user interfaces but could be controlled through _Scenes_ programmation.
+interface. On the other hand, _BeoLiving Intelligence_ also supports "_Custom resources_" that are system dependent and can not be represented as 
+a standard resource. Those don't have a graphic respresentation in user interfaces but could be controlled through _Scenes_ programming.
 
 ### How can I know which _Home Automation_ systems can be integrated?
 
 As this market never stops growing, we don't stop integrating new _Home Automation_ systems and cloud services. The list of all supported systems 
-are showed **[here](******LINK*****)**. For being updated with the latest news of new supported systems and functionalities don't 
-miss our _[Newsletter](***LINK***)_.
+are showed at [**System Drivers Guide**](../bli-help-files/drivers/main.md) page. For being updated with the latest news of new supported systems
+ and functionalities don't miss our _[Newsletter](***LINK***)_.
 
 ### Are the firmware updates necessary?
 
