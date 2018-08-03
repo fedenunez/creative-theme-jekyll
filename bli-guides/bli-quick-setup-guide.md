@@ -11,6 +11,7 @@ _BeoLiving Intelligence_ is a Plug & Play home automation controller. The next s
 By default, _BeoLiving Intelligence_ comes configured in DHCP mode. This means it gets its IP address from the router it is connected to. To configure a static IP address, please refer to [_BeoLiving Intelligence Advanced User Guide_](bli-advanced-user-guide.md).
 
 Follow the next steps to let your BeoLiving Intelligence running:
+ 
 
 + Connect _BeoLiving Intelligence_ to your LAN through its RJ45 ethernet port.
 + Power your _BeoLiving Intelligence_ using the AC power supply or by using PoE.
@@ -19,75 +20,45 @@ Follow the next steps to let your BeoLiving Intelligence running:
 + Open the _BeoLiving App_ and when your _BeoLiving Intelligence_ is ready a pop-up will appear. If more than one appears, you can identify them 
 by the serial number located on the bottom of the _BeoLiving Intelligence_.
 + Once in the pop-up window press "_Request access_" and follow the instructions provided.
-
-<div class="row justify-content-center">
-  <div class="col-4">     
-    <img src="pictures/bli-quick-setup-guide/Setting_up_3.PNG" class="img-fluid" alt="drawing"/>
-  </div>
-</div>
-
 + After that, return to the _BeoLiving App_ main screen and your _BeoLiving Intelligence_ should appear.
 
 <div class="row justify-content-center">
-  <div class="col-4">     
-    <img src="pictures/bli-quick-setup-guide/Setting_up_4.PNG" class="img-fluid" alt="drawing"/>
+  <div class="col-sm-5">     
+	<div class="embed-responsive" style="padding-bottom: 179%;">
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CYR0xTfqh7o?autoplay=1&loop=1&playlist=CYR0xTfqh7o"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	</div>
   </div>
 </div>
+
 
 ## Adding Bang & Olufsen products
 
 + In the main screen of the _BeoLiving App_ select your _BeoLiving Intelligence_ and click on "Add products". A list of the supported products that are on the same network will appear.
-
-<div class="row justify-content-center">
-  <div class="col-4">     
-    <img src="pictures/bli-quick-setup-guide/Adding_1.2.PNG" class="img-fluid" alt="drawing"/>
-  </div>
-</div>
-
 + Before adding a product, at least one zone (a virtual room where the product will be placed) must be created. Click on "Create zone" and create one.
-
-<div class="row justify-content-center">
-  <div class="col-4">     
-    <img src="pictures/bli-quick-setup-guide/Adding_2.PNG" class="img-fluid" alt="drawing"/>
-  </div>
-</div>
-
 + Select the product you want to add from the list and click on "Assign to zone". Assign the product to the zone you just created.
-
-<div class="row justify-content-center">
-  <div class="col-4">     
-    <img src="pictures/bli-quick-setup-guide/Adding_3.PNG" class="img-fluid" alt="drawing"/>
-  </div>
-</div>
-
 + Return to the _BeoLiving Intelligence_ main screen and you should see the zone with the icon of the product added.
-
-<div class="row justify-content-center">
-  <div class="col-4">     
-    <img src="pictures/bli-quick-setup-guide/Adding_4.PNG" class="img-fluid" alt="drawing"/>
-  </div>
-</div>
-
 + You can add more products to that zone, change a product from zone, or create more zones by pressing "Edit products". Note that only one icon per type of product will appear in the zone.
 
+<div class="row justify-content-center">
+  <div class="col-sm-5">     
+	<div class="embed-responsive" style="padding-bottom: 179%;">
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9edtGSMGeNg?autoplay=1&loop=1&playlist=9edtGSMGeNg"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	</div>
+  </div>
+</div>
 
 ## Controlling Bang & Olufsen products
 
 + Select the zone that the product you want to control is in.
 + In the bottom left corner press the "Source" button. A list of all the products in the zone will appear, with their respective available sources.
-
-<div class="row justify-content-center">
-  <div class="col-4">     
-    <img src="pictures/bli-quick-setup-guide/Control_2.PNG" class="img-fluid" alt="drawing"/>
-  </div>
-</div>
-
 + Select the source in the product you want, e.g.: "Deezer" in an M5 speaker.
 + Once a source is selected, controls will be shown on the main screen. What you control depends on the device and the source you have selected. You can control things such as volume, selecting content, play, pause, etc.
 
 <div class="row justify-content-center">
-  <div class="col-4">     
-    <img src="pictures/bli-quick-setup-guide/Control_4.PNG" class="img-fluid" alt="drawing"/>
+  <div class="col-sm-5">     
+	<div class="embed-responsive" style="padding-bottom: 179%;">
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VlGNc97i_pU?autoplay=1&loop=1&playlist=VlGNc97i_pU"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	</div>
   </div>
 </div>
 
@@ -97,35 +68,34 @@ _BeoLiving Intelligence_ Scenes are the way you can control several products at 
 
 + Select the zone that the products you want to control are in.
 + In the top left corner press the "Scenes" button, and then press the "+" to create a Scene.
-
-<div class="row justify-content-center">
-  <div class="col-4">     
-    <img src="pictures/bli-quick-setup-guide/Scene_2.PNG" class="img-fluid" alt="drawing"/>
-  </div>
-</div>
-
 + In the list of available products, press "+" to add it to the Scene, and press the name to configure the action that the product will do when the Scene is executed.
-
-<div class="row justify-content-center">
-  <div class="col-4">     
-    <img src="pictures/bli-quick-setup-guide/Scene_3.PNG" class="img-fluid" alt="drawing"/>
-  </div>
-</div>
-
 + The configuring of an action is done through a screen that depends on the device selected, for instance, if it's a _Bang & Olufsen_ product it will be similar to a remote control, if it's a light it will be similar to a switch.
-
-<div class="row justify-content-center">
-  <div class="col-4">     
-    <img src="pictures/bli-quick-setup-guide/Scene_4.PNG" class="img-fluid" alt="drawing"/>
-  </div>
-</div>
-
 + After selecting all the products you want to control and configuring their actions press "Done".
 + To fire a scene just press the name of it, or you can click on the clock icon to schedule it for certain time or day.
 
 <div class="row justify-content-center">
-  <div class="col-4">     
-    <img src="pictures/bli-quick-setup-guide/Scene_5.PNG" class="img-fluid" alt="drawing"/>
+  <div class="col-sm-5">     
+	<div class="embed-responsive" style="padding-bottom: 179%;">
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpFUk5OeHDg?autoplay=1&loop=1&playlist=zpFUk5OeHDg"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	</div>
+  </div>
+</div>
+
+## Creating Groups
+
+Creating a group of Bang & Olufsen products lets you control all of them as if they were one. The content that the _master_ product reproduces is reproduced as well in the rest of the products of the group. To create a group follow the next steps:
+
++ Go to the settings menu and select your _BeoLiving Intelligence_.
++ Go to _Device Settings_ and press  _Group products_.
++ Press _Create group_ and select the _master_ product from the list.
++ Press the "+" button on each product you want to add to the group.
++ After that, whenever content is reproduced in the _master_ it will be reporduced automatically in the rest of the products of the group.
+
+<div class="row justify-content-center">
+  <div class="col-sm-5">     
+	<div class="embed-responsive" style="padding-bottom: 179%;">
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VSwNKgSssI8?autoplay=1&loop=1&playlist=VSwNKgSssI8"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	</div>
   </div>
 </div>
 
