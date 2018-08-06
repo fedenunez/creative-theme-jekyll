@@ -44,39 +44,39 @@ Supported commands for each device depends in its capabilities. For example, a m
 
 + Turn on/off: 
   + "_Alexa, turn on/off (LIGHT-NAME)_"
-  + Turns on/off light
+  + _Description_:Turns on/off light
 
 + Set brightness: 
   + "_Alexa, dim (LIGHT-NAME) ##%_"
-  + Sets brightness level
+  + _Description_: Sets brightness level
 
 + Relative brightness adjust: 
   + "_Alexa, increase/decrease (LIGHT-NAME) by ##%_"
-  + Increases/decreases relatively shade level 
+  + _Description_: Increases/decreases relatively shade level 
 
 + Set color: 
   + "_Alexa, set the (LIGHT-NAME) to (COLOR)_"
-  + Sets light color
+  + _Description_: Sets light color
 
 ## Shades
 
 + Turn on/off: 
   + "_Alexa, turn on/off (SHADE-NAME)_"
-  + Raises/Lowers shade.
+  + _Description_: Raises/Lowers shade.
 
 + Set level: 
   + "_Alexa, dim (DEVICE-NAME) ##%_"
-  + Sets shade level
+  + _Description_: Sets shade level
 
 + Relative level adjust: 
   + "_Alexa, increase/decrease (DEVICE-NAME) by ##%_"
-  + Increases/decreases relatively shade level 
+  + _Description_: Increases/decreases relatively shade level 
 
 ## Scenes/Macros
 
 + Activate/Deactivate scene:
   + "_Alexa, activate/deactivate (SCENE-NAME)_"
-  + Fires or stops macro
+  + _Description_: Fires or stops macro
 
 ## Themostats
 
@@ -138,10 +138,29 @@ Supported commands for each device depends in its capabilities. For example, a m
 
 + Select source(input):
   + "_Alexa, change the input to (SOURCE-NAME) on (DEVICE-NAME)_"
-  + _Description_: Selects source on device. In _Alexa's_ language, "sources" are equivalent to "inputs". Possible sources are all enabled sources on device and manual sources added in _BLI_ _Interfaces_ 
-    page (only being _PRO_)
+  + _Description_: Selects source on device. In _Alexa's_ language, "sources" are equivalent to "inputs". Possible sources are all enabled sources
+  on device and manual sources added in _BLI_ _Interfaces_ page (only being _PRO_).
 
 ## How to change discovered device name
 
-## Workaround when select input fails
+Sometimes, Alexa's identifier device name could not be a suitable name to be used. Depending if it's an uncommon or rare name, Alexa will 
+not understand and complete the instruction, being necessary to edit Alexa's device name.
+
+The ways to edit the Alexa's identifier device name are:
+  + change the resource name at _BLI_ configuration (through _BeoLiving App_ or web interface, being _PRO_) and re-discover all devices.
+  + edition through _Alexa App_ for all devices that are not _AV renderer_ _BLI's_ resource type. This is a known limitation of _Alexa App_.  
+  
+## Workarounds when select input fails
+
+Source (input) names for each device could not be shared to or saved by _Alexa_. The skill will try to match the source (input) that _Alexa_ 
+understood with device sources. She understands possible popular sources like "_YouTube_" or "_Android TV_" most of the time, but using custom and
+ rare names will cause to confuse her or to not find any match with the desired source to select, provoking to not accomplish the desired control 
+instruction.
+
+When its impossible for _Alexa_ to select an specific source, try:
+
++ Change source name through _Interfaces_ page at _BLI_ web interface (only being _PRO_). Then re-discover devices.
++ Create a macro in _BLI_ that selects the source in the device and call "_Alexa, activate (SCENE-NAME)_". To start using the macro with _Alexa_, 
+call for a device discovery.
+
 
