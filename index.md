@@ -36,7 +36,11 @@ The main additions of the _BeoLiving Intelligence PRO_ upgrade are:
 
 ## Start now!
 
-Follow the quick setup guide to get your BeoLiving Intelligence up and running and read the user guide to better understand all the posibilities of the system. The Link to third parties guide list all the steps to link to some of the third party services like Alexa and IFTTT.
+Out of the box, _BeoLiving Intelligence_ comes aimed at end users, being easily installed, configurable and ready to start controlling your home. 
+
+Follow the _Quick setup_ to get your _BeoLiving Intelligence_ up and running and read the _User guide_ for better understanding of all the 
+posibilities of the controller. The _Link to third parties_ guide lists all the steps to link to some of the third party services like _Alexa_ and
+_IFTTT_.
 
 <div class="row justify-content-md-center">
     <div class="col-lg-4"> 
@@ -52,7 +56,7 @@ Follow the quick setup guide to get your BeoLiving Intelligence up and running a
    </div>
    <div class="col-lg-4"> 
      <div align="center">
-          <a class="nav-link js-scroll-trigger sr-button" href="/bli-guides/bli-quick-setup-guide.html" data-sr-id="16" style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; ">
+          <a class="nav-link js-scroll-trigger sr-button" href="/bli-guides/bli-advanced-user-guide.html" data-sr-id="16" style="; visibility: visible;  -webkit-transform: translateY(0) scale(1); opacity: 1;transform: translateY(0) scale(1); opacity: 1;-webkit-transition: -webkit-transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; transition: transform 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s, opacity 1s cubic-bezier(0.6, 0.2, 0.1, 1) 0.2s; ">
             <div class="service-box mt-5 mx-auto">
               <i class="fa fa-book fa-4x fa-square-o text-primary mb-3 sr-icons" data-sr-id="2" style="; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
               <h3 class="mb-3 text-dark">User guide</h3>
