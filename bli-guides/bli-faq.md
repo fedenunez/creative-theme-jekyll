@@ -35,6 +35,10 @@ Refer to our specific guide: [BeoLiving Intelligence link to 3rd party Cloud Ser
 
 Refer to our specific guide: [BeoLiving Intelligence Alexa skill guide](bli-alexa.md).
 
+### Alexa does not understands when trying to control an specific device
+
+Sometimes, devices name are not suitable for _Alexa_ to understand. Some workarounds to fix this issue are described at [BeoLiving Intelligence Alexa skill guide](bli-alexa.md).
+
 ### Can't link IFTTT or Alexa with _BeoLiving Intelligence_
 
 Make sure you first enabled _Remote Access_ of your _BeoLiving Intelligence_ through _BeoLiving App_. Refer to [BeoLiving Intelligence Quick Setup
