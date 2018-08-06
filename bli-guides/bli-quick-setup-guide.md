@@ -25,7 +25,7 @@ by the serial number located on the bottom of the _BeoLiving Intelligence_.
 <div class="row justify-content-center">
   <div class="col-sm-5">     
 	<div class="embed-responsive" style="padding-bottom: 179%;">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/CYR0xTfqh7o?autoplay=1&loop=1&playlist=CYR0xTfqh7o"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3vyf8GKIrww?autoplay=1&loop=1&playlist=3vyf8GKIrww"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
   </div>
 </div>
