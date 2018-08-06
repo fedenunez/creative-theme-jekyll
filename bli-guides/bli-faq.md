@@ -3,10 +3,6 @@ title:  BeoLiving Intelligence - FAQ
 layout: pagetoc
 ---
 
-### Where can I find documentation for the _BeoLiving Intelligence_?
-
-All documents regarding _BeoLiving Intelligence_ usage, configuration and programming are accessible at [](****LINK****).
-
 ### How to upgrade _BeoLiving Intelligence_ to PRO?
 
 _BeoLiving Intelligence_ could be upgraded through its web interface pressing in "_BASIC_" at upper-left top bar and clicking at "_Click to 
@@ -34,6 +30,10 @@ Refer to our specific guide: [BeoLiving Intelligence link to 3rd party Cloud Ser
 ### How can I control my devices with Alexa? What to say?
 
 Refer to our specific guide: [BeoLiving Intelligence Alexa skill guide](bli-alexa.md).
+
+### Alexa does not understands when trying to control an specific device
+
+Sometimes, devices name are not suitable for _Alexa_ to understand. Some workarounds to fix this issue are described at [BeoLiving Intelligence Alexa skill guide](bli-alexa.md).
 
 ### Can't link IFTTT or Alexa with _BeoLiving Intelligence_
 
