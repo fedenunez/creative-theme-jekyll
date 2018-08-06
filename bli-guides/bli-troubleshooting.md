@@ -19,8 +19,7 @@ to reproduce any issue or malfunction and understand the setup of the installati
 + _BeoLiving Intelligence_ logs of the last days of operation.
 + All _BeoLiving Intelligence_ configuration files of the _Revision history_, including active configuration.
 
-_Service report_ section could be found in _BeoLiving Intelligence_ web interface at the _Top bar_ and in _BeoLiving Intelligence PRO_ at **Tools 
-> Service reports**. 
+_Service report_ section could be found in _BeoLiving Intelligence_ web interface at the _Top bar_ and in _BeoLiving Intelligence PRO_ at **Tools > Service reports**. 
 
 In this section, a form that should be completed and the _Download_ button to save locally a _Service report_ are found.   
 
