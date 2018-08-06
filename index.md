@@ -45,7 +45,7 @@ Follow the quick setup guide to get your BeoLiving Intelligence up and running a
           <div class="service-box mt-5 mx-auto">
               <i class="fa fa-rocket fa-4x fa-square-o text-primary mb-3 sr-icons" data-sr-id="2" style="; visibility: visible;  -webkit-transform: scale(1); opacity: 1;transform: scale(1); opacity: 1;-webkit-transition: -webkit-transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; transition: transform 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s, opacity 0.6s cubic-bezier(0.6, 0.2, 0.1, 1) 0s; "></i>
               <h3 class="mb-3 text-dark">Quick setup</h3>
-              <p class="text-muted mb-0">Get everything up an running</p>
+              <p class="text-muted mb-0">Get everything up and running</p>
           </div>
         </a>
      </div>
@@ -118,7 +118,7 @@ If you want your BeoLiving Intelligence to be in its full capabilities upgrade i
   
 ## Troubleshooting
 
-Have a question? You can find the answers for the most common questions in our _Frequently Asked Question_ document. If you are experience troubles refer to our _troubleshooting_ guide
+Have a question? You can find the answers for the most common questions in our _Frequently Asked Question_ document. If you are experiencing any trouble refer to our _troubleshooting_ guide
 
 
 
