@@ -18,10 +18,6 @@ Intelligence_ to _PRO_, then all devices apart from _Bang & Olufsen_ devices cou
 + _BLI_: Alias for BeoLiving Intelligence.
 + _BLI PRO_: Alias for BeoLiving Intelligence PRO.
 + _BLApp_: BeoLiving App.
-+ _NL_: Network Link.
-+ _LAN_: Local Area Network.
-+ _DHCP_: Dynamic Host Configuration Protocol.
-+ _HA_: Home Automation.
 
 
 ## Discovery
@@ -65,11 +61,11 @@ Supported commands for each device depends in its capabilities. For example, a m
   + _Description_: Raises/Lowers shade.
 
 + Set level: 
-  + "_Alexa, dim (DEVICE-NAME) ##%_"
+  + "_Alexa, dim (SHADE-NAME) ##%_"
   + _Description_: Sets shade level
 
 + Relative level adjust: 
-  + "_Alexa, increase/decrease (DEVICE-NAME) by ##%_"
+  + "_Alexa, increase/decrease (SHADE-NAME) by ##%_"
   + _Description_: Increases/decreases relatively shade level 
 
 ## Scenes/Macros
@@ -147,7 +143,7 @@ Sometimes, Alexa's identifier device name could not be a suitable name to be use
 not understand and complete the instruction, being necessary to edit Alexa's device name.
 
 The ways to edit the Alexa's identifier device name are:
-  + change the resource name at _BLI_ configuration (through _BeoLiving App_ or web interface, being _PRO_) and re-discover all devices.
+  + change the resource name at _BLI_ configuration (through _BLApp_ or web interface, being _PRO_) and re-discover all devices.
   + edition through _Alexa App_ for all devices that are not _AV renderer_ _BLI's_ resource type. This is a known limitation of _Alexa App_.  
   
 ## Workarounds when select input fails
@@ -162,5 +158,3 @@ When its impossible for _Alexa_ to select an specific source, try:
 + Change source name through _Interfaces_ page at _BLI_ web interface (only being _PRO_). Then re-discover devices.
 + Create a macro in _BLI_ that selects the source in the device and call "_Alexa, activate (SCENE-NAME)_". To start using the macro with _Alexa_, 
 call for a device discovery.
-
-
