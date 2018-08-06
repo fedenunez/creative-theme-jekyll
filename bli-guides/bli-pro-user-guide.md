@@ -5,9 +5,9 @@ layout: pagetoc
 
 ## Introduction
 
-The scope of this guide comprise an introduction to _BeoLiving Intelligence_ in _PRO_ mode, a detailed description of its web interface used for configuration/programming your setup and "How to´s" of different features. _BeoLiving Intelligence PRO_ has all of its capabilities unblocked and this guide will let you exploit your Home Automation controller to its maximum.
+The scope of this guide comprise an introduction to _BeoLiving Intelligence_ in _PRO_ mode, a detailed description of its web interface used for configuration/programming your setup and "How to's" of different features. _BeoLiving Intelligence PRO_ has all of its capabilities unblocked and this guide will let you exploit your Home Automation controller to its maximum.
 
-Before reading this guide, it's recommended reading "_Un-Boxing BeoLiving Intelligence_" and "_BeoLiving Intelligence User Guide_" for better understanding of some concepts and useful information, not included in this guide.
+Before reading this guide, it's recommended reading [BeoLiving Intelligence Quick Setup Guide](bli-quick-setup-guide.md) and [BeoLiving Intelligence User Guide](bli-advanced-user-guide.md) for better understanding of some concepts and useful information, not included in this guide.
 
 _BeoLiving Intelligence PRO_ firmware upgrade enables the unique capability of integrating Bang & Olufsen Network Link systems (audio and video products) with some of the most popular Home Automation systems such as Nest, Philips Hue, KNX, Lutron, among others, creating versatile solutions and a great experience for _BeoLiving Intelligence_ users.
 
@@ -71,7 +71,7 @@ Negative values are for South and West.
 
 #### Integration Protocols
 
-Home Integration protocol allow other devices to interact with BeoLiving Intelligence. This protocol is used by mobile applications or by other 
+Home Integration protocol allow other devices to interact with _BLI_. This protocol is used by mobile applications or by other 
 home automation controllers.
 
 Home Integration protocol provides two-way control of all resource types. This protocol can be enabled on the local network, with mandatory 
