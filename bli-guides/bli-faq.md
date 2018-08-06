@@ -3,10 +3,6 @@ title:  BeoLiving Intelligence - FAQ
 layout: pagetoc
 ---
 
-### Where can I find documentation for the _BeoLiving Intelligence_?
-
-All documents regarding _BeoLiving Intelligence_ usage, configuration and programming are accessible at [](****LINK****).
-
 ### How to upgrade _BeoLiving Intelligence_ to PRO?
 
 _BeoLiving Intelligence_ could be upgraded through its web interface pressing in "_BASIC_" at upper-left top bar and clicking at "_Click to 
