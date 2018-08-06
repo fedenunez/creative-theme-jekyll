@@ -39,7 +39,7 @@ The main additions of the _BeoLiving Intelligence PRO_ upgrade are:
 Out of the box, _BeoLiving Intelligence_ comes aimed at end users, being easily installed, configurable and ready to start controlling your home. 
 
 Follow the _Quick setup_ to get your _BeoLiving Intelligence_ up and running and read the _User guide_ for better understanding of all the 
-posibilities of the controller. The _Link to third parties_ guide lists all the steps to link to some of the third party services like _Alexa_ and
+posibilities of the controller. The _Link to third parties_ guide lists all the steps to enable some of the third party services like _Alexa_ and
 _IFTTT_.
 
 <div class="row justify-content-md-center">
@@ -84,8 +84,8 @@ _IFTTT_.
 <a id="PRO"/>
 ## PRO
 
-If you want your BeoLiving Intelligence to be in its full capabilities upgrade it to PRO and learn the new features by following the _PRO user guide_. Refer to the _System drivers guide_ if you want information about a specific supported driver.
-
+If you want your _BeoLiving Intelligence_ to be in its full capabilities upgrade it to _PRO_ and learn the new features by following the 
+_PRO user guide_. Refer to the _System drivers guide_ if you want information about a specific supported driver.
 
 <div class="row justify-content-md-center">
   <div class="col-lg-4"> 
@@ -112,19 +112,13 @@ If you want your BeoLiving Intelligence to be in its full capabilities upgrade i
    </div>
 </div>
 
-
-
-
-
-
   
 <a id="contact"/>
   
 ## Troubleshooting
 
-Have a question? You can find the answers for the most common questions in our _Frequently Asked Question_ document. If you are experience troubles refer to our _troubleshooting_ guide
-
-
+Have a question? You can find the answers for the most common questions in our _Frequently Asked Question_ document. If you are experiencing 
+troubles or malfunction refer to our _Troubleshooting_ guide
 
 
 <div class="row justify-content-md-center">
