@@ -3,7 +3,7 @@ title: BeoLiving Intelligence Quick Setup Guide
 layout: pagetoc
 ---
 
-_BeoLiving Intelligence_ is a Plug & Play home automation controller. The next steps show how to quickly set your _BeoLiving Intelligence_ up and ready for basic use. Illustrations of basic usage examples are shown.
+_BeoLiving Intelligence_ is a Plug & Play home automation controller. The next steps show how to quickly set your _BeoLiving Intelligence_ up and ready for basic use. Videos of basic usage examples are shown.
 
 
 ## Setting up the _BeoLiving Intelligence_
@@ -64,13 +64,13 @@ by the serial number located on the bottom of the _BeoLiving Intelligence_.
 
 ## Creating Scenes
 
-_BeoLiving Intelligence_ Scenes are the way you can control several products at the same time. For example, you can create a Scene that sets the source of a speaker on Deezer while at the same time sets a TV on youtube. Each time you execute the Scene those commands will be executed on your _BeoLiving Intelligence_, and what's more, you can schedule the Scene to execute at a given time or periodically, e.g.: turn on the lights and close the shades each Tuesday at 10 o'clock. To set a Scene, follow the next steps:
+_BeoLiving Intelligence_ Scenes are the way you can control several products at the same time. For example, you can create a Scene that sets the source of a speaker on _Deezer_ while at the same time sets a TV on _YouTube_. Each time you execute the Scene those commands will be executed on your _BeoLiving Intelligence_, and what's more, you can schedule the Scene to execute at a given time or periodically, e.g.: turn on the lights and close the shades each Tuesday at 10 o'clock. To set a Scene, follow the next steps:
 
 + Select the zone that the products you want to control are in.
 + In the top left corner press the "Scenes" button, and then press the "+" to create a Scene.
 + In the list of available products, press "+" to add it to the Scene, and press the name to configure the action that the product will do when the Scene is executed.
-+ The configuring of an action is done through a screen that depends on the device selected, for instance, if it's a _Bang & Olufsen_ product it will be similar to a remote control, if it's a light it will be similar to a switch.
-+ After selecting all the products you want to control and configuring their actions press "Done".
++ The configuration of an action is done through a screen that depends on the device selected, for instance, if it's a _Bang & Olufsen_ product it will be similar to a remote control, if it's a light it will be similar to a switch.
++ After selecting all the products you want to control and configurate their actions press "Done".
 + To fire a scene just press the name of it, or you can click on the clock icon to schedule it for certain time or day.
 
 <div class="row justify-content-center">

@@ -14,7 +14,6 @@ products alongside the most popular Home Automation brands.
 The main features of the _BeoLiving Intelligence_ controller are:
 
 + Control _Bang & Olufsen_ (NetworkLink type) products through your smart device.
-+ Remote access of your installation.
 + Voice control of your installation through Alexa.
 + Support with IFTTT.
 + Creation of routines that automates the control of several products.
