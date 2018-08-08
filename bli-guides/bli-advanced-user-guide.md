@@ -177,7 +177,7 @@ An installer can access the _BLI_ setup interface with the _admin_ user. To rein
 
 At the top menu bar, **BASIC** access page could be found. This page contains information regarding your _BLI_ and _Licensing information_.
 In _Product information_, _License type_ shows the current license of your _BLI_ and for _BLI's_ with _BASIC_ license _Click to upgrade_ link 
-is showed. This link will redirect your browser to **khimo.com** to start the upgrade process. Payment is done through _PayPal_.
+is showed. This link will redirect your browser to *Khimo.com* to start the upgrade process. Payment is done through _PayPal_.
 
 After payment process finishes, your _BLI_ will start the upgrade process immediately which could last one minute approximately.
 
