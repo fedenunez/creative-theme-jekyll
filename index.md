@@ -2,26 +2,26 @@
 title: BeoLiving documentation
 ---
 
-A focus on making life easier and more enjoyable for the homeowner has given rise to _BeoLiving Intelligence_, the first Plug & Play smart home 
+A focus on making life easier and more enjoyable has given rise to _BeoLiving Intelligence_, the first Plug & Play smart home 
 controller for _Bang & Olufsen_ products. _BeoLiving Intelligence_, [successor of _BeoLink Gateway_](bli-guides/bli-whats-new.md), is the new 
 creation resulting from the _Bang & Olufsen_ and _Khimo_ partnership which dates back to 2006. _BeoLiving Intelligence_ expands the way _Bang & 
 Olufsen_ products can work together, as well as allowing them to interact with many other brands of consumer electronic devices.
 
 Together with the beautifully sculpted, simple and intuitive, companion _BeoLiving App_, all the magic that _BeoLiving Intelligence_ allows is 
-directly accessible and configurable at the palm of your hand. Use the _BeoLiving App_ in your phone to easily control your _Bang & Olufsen_ 
-products alongside the most popular Home Automation brands.
+directly accessible and configurable at the palm of your hand. Use the _BeoLiving App_ in your phone or tablet to easily control your 
+_Bang & Olufsen_ products alongside with the most popular Home Automation brands.
 
-The main features of the _BeoLiving Intelligence_ controller are:
+The main features of the _BeoLiving Intelligence_ are:
 
-+ Control _Bang & Olufsen_ (NetworkLink type) products through your smart device.
-+ Voice control of your installation through Alexa.
-+ Support with IFTTT.
-+ Creation of routines that automates the control of several products.
++ Control _Bang & Olufsen_ (NetworkLink type) products with your _iOS_ device of choice.
++ Voice control through Alexa.
++ IFTTT support.
++ Creation of routines to automates the control of several products at once.
 
-The _BeoLiving Intelligence_ controller is upgradable to a full professional smart home solution through a one-time paid license (_BeoLiving 
-Intelligence PRO_). With this optional upgrade license, _BeoLiving Intelligence_ transforms into a controller for all world market brands of 
-dedicated home automation systems. Even if you don’t own any _Bang & Olufsen_ products, your unique home automation and audio/video ecosystem 
-will be accessible as one entity through the expertly crafted _BeoLiving App_.
+_BeoLiving Intelligence_ is upgradable to *BeoLiving Intelligence PRO*, a full professional smart home solution through a one-time paid license 
+fee. *BeoLiving Intelligence PRO* transforms into the custom installer dream controller. With its Real-Time Configuration platform, it provides 
+the simplest yet most powefull way to integrate, control and automate an entire home. Even if you don't own any _Bang & Olufsen_ products, your 
+unique home automation and audio/video ecosystem will be accessible as one entity through the expertly crafted _BeoLiving App_.
 
 The main additions of the _BeoLiving Intelligence PRO_ upgrade are:
 
@@ -35,11 +35,11 @@ The main additions of the _BeoLiving Intelligence PRO_ upgrade are:
 
 ## Start now!
 
-Out of the box, _BeoLiving Intelligence_ comes aimed at end users, being easily installed, configurable and ready to start controlling your home. 
+Out of the box, _BeoLiving Intelligence_ does not need an installer, a few simple non technical steps and it is ready to shine.
 
-Follow the _Quick setup_ to get your _BeoLiving Intelligence_ up and running and read the _User guide_ for better understanding of all the 
-posibilities of the controller. The _Link to third parties_ guide lists all the steps to enable some of the third party services like _Alexa_ and
-_IFTTT_.
+Follow the _Quick setup_ to get your _BeoLiving Intelligence_ up and running. Go to the _User guide_ for better understanding of all the 
+posibilities of _BeoLiving Intelligence_. The _Link to third parties_ guide lists all the steps to enable some of the third party services like 
+_Alexa_ and _IFTTT_.
 
 <div class="row justify-content-md-center">
     <div class="col-lg-4"> 
@@ -83,8 +83,8 @@ _IFTTT_.
 <a id="PRO"/>
 ## PRO
 
-If you want your _BeoLiving Intelligence_ to be in its full capabilities upgrade it to _PRO_ and learn the new features by following the 
-_PRO user guide_. Refer to the _System drivers guide_ if you want information about a specific supported driver.
+To unleash the full capabilities of _BeoLiving Intelligence_, upgrade to its _PRO_ version. Go to the _PRO User guide_ to learn all of its 
+funtionalities and features and refer to the _System drivers guide_ if you want information about a specific supported driver.
 
 <div class="row justify-content-md-center">
   <div class="col-lg-4"> 
@@ -116,10 +116,8 @@ _PRO user guide_. Refer to the _System drivers guide_ if you want information ab
   
 ## Troubleshooting
 
-
-Have a question? You can find the answers for the most common questions in our _Frequently Asked Question_ document. If you are experiencing 
-troubles or malfunction refer to our _Troubleshooting_ guide
-
+Do you have a question? You can find answers to the most common questions in our _Frequently Asked Question_ document. If you are experiencing 
+troubles or malfunction, please refer to our _Troubleshooting Guide_.
 
 <div class="row justify-content-md-center">
   <div class="col-lg-4"> 
