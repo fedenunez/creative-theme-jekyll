@@ -2,13 +2,15 @@
 layout: slides
 ---
 
-[comment]: <> (For a new horizontal slide use: \n===\n)
+[comment]: <> (For a new horizontal slide use: \n----\n)
 [comment]: <> (For a new vertical slide use: \n|||n)
 [comment]: <> (To write slide notes uses \nNote:)
 
+
+
 # BeoLiving Intelligence
 
-===
+----
 ## BeoLiving Intelligence
 
 #### Comes in 2 flavours:
@@ -21,7 +23,7 @@ Note:
   - BASIC An entry home controller (From factory) 
   - PRO: BeoLink Gateway  + free remote access + new goodies (must buy an upgrade) 
 
-===
+----
 ### BASIC (1/2)
 
 - designed for the end-user (Plug & Play)
@@ -33,7 +35,7 @@ Note:
 BLI its designed for the end user. Out of the box, could be setted up by some non-technical easy steps.
 
 
-===
+----
 ### BASIC (2/2)
  
  
@@ -49,7 +51,7 @@ Note:
 - Most of the configuration is done through BeoLiving App.
 
 
-===
+----
 
 ## PRO
 
@@ -64,7 +66,7 @@ Note:
 
 
 
-===
+----
 
 ## What will not work!
 
@@ -74,7 +76,7 @@ Note:
 - The admin password
 
 
-===
+----
 ## Some features
 
 |||
@@ -103,14 +105,14 @@ Note:
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9R8mR-LxnXE?autoplay=0&loop=1&playlist=9R8mR-LxnXE"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
-===
+----
 ### Alexa tips (BASIC | PRO)
 
 - scenes | create scenes for a improved experience
 
 
 
-===
+----
 
 
 ## Thinks to remember
@@ -124,14 +126,16 @@ Note:
 Note:
 + By default, admin user has an unknown password. Inserting button function 2, will set admin password to "admin" for the next 5 minutes. This decision is based in security matters.
 
-===
+----
+
+
 
 ### Service troubleshooting & Recovery mode guide
 
 - ECON usb to get service report
 - Service magic USB to recovery a "DEAD" box
 
-===
+----
 
 ### Documentation
 
@@ -174,7 +178,7 @@ Note:
 Note:
 In a products' group, exist a master product that will be the source and volume reference of the group and the rest of the grouped products will follow any source/volume change of master automatically. BeoLiving App will only show the master.
 
-===
+----
 
 ### Alexa Skill
 
@@ -186,7 +190,7 @@ Examples:
   + Control shades and dimmers
   + Fire scenes
 
-===
+----
 
 ### Linking Alexa and IFTTT
 
@@ -196,7 +200,7 @@ Linking process for both cloud services are the same. Linking process starts in 
 
 Khimo User/Password linking process (as it was for IFTTT) is also available as a legacy for BLGW users.
 
-===
+----
 ### Service troubleshooting & Recovery mode guide
 
 - ECON usb to get service report
@@ -209,3 +213,23 @@ These two guides are specially directed to service staff. These describes differ
 + ECON: consist in attach a USB pendrive named as "ECON" into BLI. BLI will detect when this pendrive is attached and will download to it a big amount of information about BLI current state.
 + Recovery mode: It's possible to boot BLI through a pendrive. This will backup current configuration into the pendrive, will erase current configuration in BLI and download last stable firmware.
 
+----
+## Algo de lua
+```lua
+function linkify( selector ) {
+  if( supports3DTransforms ) {
+
+    var nodes = document.querySelectorAll( selector );
+
+    for( var i = 0, len = nodes.length; i &lt; len; i++ ) {
+      var node = nodes[i];
+
+      if( !node.className ) {
+        node.className += ' roll';
+      }
+    }
+  }
+}
+```
+
+----
