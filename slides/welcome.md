@@ -8,6 +8,7 @@ layout: slides
 
 
 
+<!-- .slide: data-background-image="bli.jpg" -->
 # BeoLiving Intelligence
 
 ----
@@ -80,6 +81,8 @@ Note:
 ## Some features
 
 |||
+
+
 ### Feature: Login without password 
 
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3vyf8GKIrww?autoplay=0&loop=1&playlist=3vyf8GKIrww&start=24"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
