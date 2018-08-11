@@ -8,17 +8,19 @@ layout: slides
 
 
 
-<!-- .slide: data-background-image="bli.jpg" -->
-# BeoLiving Intelligence
+<!-- .slide: data-background-image="bli.jpg" data-background-opacity=.1 -->
 
 ----
 ## BeoLiving Intelligence
 
-#### Comes in 2 flavours:
+#### 2 flavours:
+
 - BASIC
 - PRO
 
-#### 4 times faster than the BLGW
+<br/>
+
+#### 4 times faster than the BLGW <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note:
   - BASIC An entry home controller (From factory) 
@@ -29,8 +31,8 @@ Note:
 
 - designed for the end-user (Plug & Play)
 - fully configurable from the *BeoLiving App*
-- Improves security: 
-     - password less
+- Improves security: password less
+- automatic adds B&O resources
 
 Note:
 BLI its designed for the end user. Out of the box, could be setted up by some non-technical easy steps.
@@ -40,11 +42,10 @@ BLI its designed for the end user. Out of the box, could be setted up by some no
 ### BASIC (2/2)
  
  
-- automatic adds B&O resources
-- handle content providers credentials
-- product groups
-- enable Alexa & IFTTT
-- automatic firmware upgrade
+- Content providers credentials
+- Product groups
+- Alexa & IFTTT
+- Automatic firmware upgrade
 
 Note:
 - Some HA systems will be added in the future
@@ -57,7 +58,7 @@ Note:
 ## PRO
 
 - The BASIC features
-- BeoLink Gateway features
+- The BeoLink Gateway features
 - Remote access configured from factory
 - One-time PRO upgarde
 
@@ -73,7 +74,7 @@ Note:
 
 - MasterLink devices
 - Beo4 and BeoRemote One commands
-- Manual soruces
+- Manual sources
 - The admin password
 
 
@@ -109,11 +110,14 @@ Note:
 
 
 ----
-### Alexa tips (BASIC | PRO)
+### Alexa (BASIC | PRO)
 
-- scenes | create scenes for a improved experience
-
-
+Alexa skill is available for BASIC and PRO.
+Examples:
+  + Set modes or setpoints of thermostats
+  + Select source, change channel, volume control of NetworkLink products
+  + Control shades and dimmers
+  + Fire scenes
 
 ----
 
@@ -132,7 +136,6 @@ Note:
 ----
 
 
-
 ### Service troubleshooting & Recovery mode guide
 
 - ECON usb to get service report
@@ -144,10 +147,13 @@ Note:
 
 - Everything at github
 - Help us improving it!
-- Send us your github username so we can invite you
+  - Create a github user
+  - Send the user to us
+  - Edit it from github
 
 |||
 
+<!--
 ### New features for the end user
 
 + From the APP:
@@ -158,7 +164,7 @@ Note:
    + Set default credentials of Deezer and TuneIn
 
 |||
-
+//-->
 ### Content provider credentials
 
 + Possible to set default credentials
@@ -183,17 +189,6 @@ In a products' group, exist a master product that will be the source and volume 
 
 ----
 
-### Alexa Skill
-
-Alexa skill is available for BASIC and PRO BLI's, Also, its compatible with BLGW.
-With Alexa you can control any standard resource type. 
-Examples:
-  + Set modes or setpoints of thermostats
-  + Select source, change channel, volume control of NetworkLink products
-  + Control shades and dimmers
-  + Fire scenes
-
-----
 
 ### Linking Alexa and IFTTT
 
