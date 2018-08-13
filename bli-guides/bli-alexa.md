@@ -116,11 +116,11 @@ Supported commands for each device depends in its capabilities. For example, a m
   + _Rules_: Search for (CHANNEL-NAME) into all favourite lists assigned to device sources. Current source will have priority for a match.
 
 + Skip channels:
-  + "_ Alexa, channel up/down on (DEVICE-NAME)_"
+  + "_Alexa, channel up/down on (DEVICE-NAME)_"
   + _Description_: Changes to next or previous channel in current source
   
 + Set volume:
-  + "_ Alexa, set the volume of (DEVICE-NAME) to (VOLUME)_"
+  + "_Alexa, set the volume of (DEVICE-NAME) to (VOLUME)_"
   + _Description_: Sets volume level to (VOLUME)
   + _Rules_: Desired volume must be between 0 and 90
 
