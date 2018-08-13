@@ -5,31 +5,26 @@ layout: pagetoc
 
 ## Introduction
 
-The scope of this guide includes a description of all elements that are inside _BeoLiving Intelligence_ box, an introduction to _BeoLiving 
-Intelligence_ functionalities, how to find and access it within the network and an explanation regarding different sections of its web interface. 
-_BeoLiving Intelligence_ comes out of the box with a big limitation in all the functionalities it could offer. To use your _BeoLiving 
-Intelligence_ in its full capabilities, it's necessary to pay for an upgrade that automatically will make your _BeoLiving Intelligence_ 
-change to _PRO_ mode (see section [*Upgrade to PRO*](#upgrade-pro) for futher information). 
-For usage and configuration reference of _BeoLiving Intelligence PRO_ refer to [_BeoLiving Intelligence PRO User Guide_](bli-pro-user-guide.md). 
+This guide provides:
+- A description of all the elements that come inside a _BeoLiving Intelligence_ box.
+- How to find an access a _BeoLiving Intelligence_ within the network.
+- An introduction to the _BeoLiving Intelligence_ functionalities.
+- An overview of the different sections of its web interface.
 
-_BeoLiving Intelligence_ has the unique capability of integrating _Bang & Olufsen_ NetworkLink systems (audio and video products) with several 
-Home Automation systems. However to fully support integration with all available Home Automation systems you need to upgrade your _BeoLiving 
-Intelligence_ to _PRO_.
-
-The _Bang & Olufsen_ NetworkLink systems comprises audio and video products. Most important Home Automation systems are also supported and can be 
-configured by using either an Ethernet connection or RS232 protocol connection. This enables smooth control and operation of the 
-installation as a whole.
+_BeoLiving Intelligence_ comes out of the box with a big limitation in all the functionalities it could offer. To use it
+in its full capabilities, you should upgrade your _BeoLiving Intelligence_ to _PRO_ mode. This will allow for full integration
+of _Bang & Olufsen_ NetworkLink audio and video products with several Home Automation systems such as Nest, Philips Hue,
+KNX and Lutron, among others. (see section [*Upgrade to PRO*](#upgrade-pro), or refer to [_BeoLiving Intelligence PRO User Guide_](bli-pro-user-guide.md) for futher information), 
 
 Most of _BeoLiving Intelligence_ configuration and usage it's done through the _BeoLiving App_. This Smart Device application lets you customize 
 your installation and control all devices in it. _BeoLiving Intelligence_ also provides a web interface, which out of the box provides Network 
-settings and User access control management. After upgrading your controller to _BeoLiving Intelligence PRO_, web interface becomes the most 
+settings and User access control management. After upgrading your controller to _BeoLiving Intelligence PRO_, the web interface becomes the most 
 important tool for installation, configuration and programming. 
 
 _BeoLiving Intelligence_ provides support in two ways:
 
 - Hassle free integration of _Bang & Olufsen_ NetworkLink A/V systems with other control systems, without extra boxes.
-- Control of the entire home via either a _Bang & Olufsen_ remote control, the _BeoLiving App_ or the overlay menus on a _Bang & Olufsen_ TV.
-
+- Control of the entire home via either a _Bang & Olufsen_ remote control, the _BeoLiving App_, or the overlay menus on a _Bang & Olufsen_ TV.
 
 ## Terminology
 
@@ -40,6 +35,7 @@ _BeoLiving Intelligence_ provides support in two ways:
 + _BLApp_: BeoLiving App.
 + _LAN_: Local Area Network.
 + _DHCP_: Dynamic Host Configuration Protocol.
++ _PoE_: Power over Ethernet.
 
 ## What's inside the box
 
@@ -57,16 +53,16 @@ After opening the box of _BLI_ you will find:
 Located on the back of the _BLI_:
 
 + *Power*: Powers the _BLI_. 
-+ *USB Port*: Used for service purpouses.
-+ *System Reset Button*: After being pressed during 8 seconds, a system reset will occur.
++ *USB Port*: Used for service purposes.
++ *System Reset Button*: Press it for 8 seconds for resetting the system.
 + *RJ 45 Connector*: For connecting the BeoLiving Intelligence to a local network (*PoE* capable). 
 
 <img src="pictures/bli-advanced-user-guide/ports.png" class="img-fluid" alt="Ports"/>
 
 ### User Led and Button
 
-+ *User LED*: The user LED is used to signalize the present state of _BLI_ from the use of colours and ON-OFF patterns combination. Colours could be Green, Red or Yellow and the patterns could be Solid, Flash and Quick Flash. For more information about different _BLI_ LED states refer to [*Led States*](#led-states) section.
-+ *User Button*: This button is intended for user confirmation and button functions input. For more information refer to [Button Functions](#button-functions) section.
++ *User LED*: The user LED is used to signalize the current state of the _BLI_, using different colours and ON-OFF patterns combination. Colours could be Green, Red or Yellow and the patterns could be Solid, Flash and Quick Flash. For more information about different _BLI_ LED states refer to [*Led States*](#led-states) section.
++ *User Button*: This button is intended for user confirmation and button function input. For more information refer to [Button Functions](#button-functions) section.
 
 <div class="text-center">
   <img src="pictures/bli-advanced-user-guide/bli.png" class="img-fluid" alt="BLI"/>
@@ -74,7 +70,7 @@ Located on the back of the _BLI_:
 
 ### Led States
 
-Below are shown all the possible user LED states with their respective meaning.
+All the possible user LED states with their respective meaning are shown in the following table.
 
 <table class="table">
   <thead class="thead-light">
@@ -86,73 +82,72 @@ Below are shown all the possible user LED states with their respective meaning.
   <tbody>
     <tr>
       <td>Normal operation</td>
-      <td>Constant Green</td>
+      <td>Solid Green</td>
     </tr>
     <tr>
       <td>Critical error</td>
-      <td>Flash Red / Yellow</td>
+      <td>Red / Yellow flash</td>
     </tr>
     <tr>
       <td>Firmware update</td>
-      <td>Quick flash Green</td>
+      <td>Green quick flash</td>
     </tr>
     <tr>
       <td>Loading configuration</td>
-      <td>Quick flash Green</td>
+      <td>Green quick flash</td>
     </tr>
     <tr>
       <td>Waiting for User confirmation</td>
-      <td>Quick flash Green / Yellow</td>
+      <td>Green / Yellow quick flash</td>
     </tr>
     <tr>
       <td>User confirmation acknowledge</td>
-      <td>Constant Yellow</td>
+      <td>Solid Yellow</td>
     </tr>
     <tr>
       <td>Boot</td>
-      <td>Transition Red / Yellow</td>
+      <td>Red / Yellow transition</td>
     </tr>
   </tbody>
 </table>
 
 ## Accessing the BeoLiving Intelligence
 
-The web-interface of the _BLI_ can be accessed by entering his address in a network browser, so in order to accomplish this, its IP must be discovered. _BLI_ is configured by default in DHCP mode. This means it gets its IP address from the router it is connected to.
+The _BLI_ presents a web interface that can be accessed from a network browser. By default, _BLI_ is configured DHCP mode,
+meaning that it gets the IP address from the router it is connected to.
 
-### IP address discovery
+### IP address discovery suggestions
 
-The following methods to discover _BLI_ IP are suggestions (this doesn't mean that they are the only ones):
-
-- Use a network scanner/IP-scanner, e.g. the free-ware: Fing. The best result is obtained using a hand held device; remember to access the Wi-Fi network used by the _BLI_.
-- Using a computer on the same network as the _BLI_ and an application that supports Bonjour discovery (e.g. the Safari browser, avahi-browse) lookup for "\_hipservices.\_tcp." service and the application will discover the IP addresses of the _BLI_ in the network.
-- Access to your LAN router and search for the assigned IP to _BLI_. 
+- Look up for "\_hipservices.\_tcp" using an application that supports Zero-configuration, such as the Safari browser or the avahi-browse command.
+- Use a network scanner/IP-scanner (e.g. Fing) on the same network as the _BLI_.
+- Access your LAN router and search for the assigned IP to _BLI_. 
 
 ### Set static IP address mode
 
-To set a static IP-address to _BLI_ (according to the network plan determined in the building) it must first be connected in DHCP mode to the 
-router, and the static IP-address is then configured through its web-interface (as described in [*Network*](#network-conf) section).
+A static IP-address can be set to the _BLI_ by accessing through the web interface, as described in the [*Network*](#network-conf) section.
 
 ### Direct access
 
-The _BLI_ is set to fixed IP-address mode by activating the Setup button function (3); see [Button Functions](#button-functions). Your computer and _BLI_ ethernet ports must be connected directly to each other using an Ethernet cable. The computer must have an IP address in the same range, e.g. 192.168.1.11 with subnet mask 255.255.255.0. The _BeoLiving Intelligence_ is then accessed directly by the factory default IP-address *192.168.1.10* entered in the network browser. 
-This method can also be used if the IP address is forgotten or if is not possible to discover it.
+The _BLI_ can be set to the factory default IP-address *192.168.1.10* by activating the Setup button function (3); see [Button Functions](#button-functions). 
+Once this address is set, you can access it directly using a network browser by using an Ethernet crossover cable. Note that he computer must
+have an IP address in the same range, e.g. 192.168.1.11 with subnet mask 255.255.255.0.
 
 ## User button {#button-functions}
 
 _BLI_ has a button accessible in the upper side which provides several functions during normal operation:
 
 - **Function 1**: Reserved.
-- **Function 2**: Set _admin_ password to _"admin"_ during the next 5 minutes. See further information in [*Setup interface*](#setup-interface) section.
+- **Function 2**: Set _admin_ password to _"admin"_ during the next 5 minutes. Check the [*Setup interface*](#setup-interface) section for further information.
 - **Function 3**: Set network settings to fixed IP (192.168.1.10).
 - **Function 4**: Set network settings to use DHCP.
 - **Function 5**: Erase all configuration and settings.
 
-To select a function, press and hold the setup button. This will cycle through all available functions as indicated by the LED blinking (it will first blink one meaning function 1, after a while it will blink twice meaning function 2 and so on.).
+To execute a function, press and hold the setup button. This will cycle through all available functions as indicated by the LED blinking (it will first blink one meaning function 1, after a while it will blink twice meaning function 2 and so on).
 
-Release the button when you get the desired function number and the LED will start to blink, press the setup button again in order to 
+Release the button when you get to the desired function number and the LED will start to blink, press the setup button again in order to 
 confirm the function execution.
 
-Apart from being used to confirm input function, a single press during normal operation is used to fire System event's (refer to [_BeoLiving Intelligence PRO User Guide_](bli-pro-user-guide.md)).
+In addition to being used to confirm the input function, a single press during normal operation is used to fire System event (refer to [_BeoLiving Intelligence PRO User Guide_](bli-pro-user-guide.md)).
 
 ## Web interface usage
 
