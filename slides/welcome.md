@@ -104,7 +104,7 @@ Note:
 |||
 ### Feature: Request remote access
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9R8mR-LxnXE?autoplay=0&loop=1&playlist=9R8mR-LxnXE"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9R8mR-LxnXE?autoplay=0&loop=0&playlist=9R8mR-LxnXE"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 
 ----
@@ -122,7 +122,12 @@ Examples:
   + Fire scenes
 
 |||
-### Linking Alexa and IFTTT
+### Linking Alexa and IFTTT (1/2)
+
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w7Ck3V6DtEw?autoplay=0&loop=1&playlist=9R8mR-LxnXE"  frameborder="0" width="1013" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+|||
+### Linking Alexa and IFTTT (2/2)
 
 Two ways:
 + Scan a QR code with BeoLiving App
