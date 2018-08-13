@@ -29,10 +29,10 @@ Note:
 ----
 ### BASIC (1/2)
 
-- designed for the end-user (Plug & Play)
-- fully configurable from the *BeoLiving App*
+- Designed for the end-user (Plug & Play)
+- Fully configurable from the *BeoLiving App*
 - Improves security: password less
-- automatic adds B&O resources
+- Automatic adds B&O resources
 
 Note:
 BLI its designed for the end user. Out of the box, could be setted up by some non-technical easy steps.
@@ -82,8 +82,6 @@ Note:
 ## Some features
 
 |||
-
-
 ### Feature: Login without password 
 
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3vyf8GKIrww?autoplay=0&loop=1&playlist=3vyf8GKIrww&start=24"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
@@ -110,6 +108,10 @@ Note:
 
 
 ----
+# Alexa
+
+
+|||
 ### Alexa (BASIC | PRO)
 
 Alexa skill is available for BASIC and PRO.
@@ -119,9 +121,57 @@ Examples:
   + Control shades and dimmers
   + Fire scenes
 
+|||
+### Linking Alexa and IFTTT
+
+Two ways:
++ Scan a QR code with BeoLiving App
++ If you started this linking process using an iOS device, BeoLiving App shows up to Authorize permissions after button press (?)
+
+Note:
+Khimo User/Password linking process (as it was for IFTTT) is also available as a legacy for BLGW users.
+
+|||
+### Alexa Tips
+
++ Devices names should be chosen properly
++ Create scenes for most frequent use cases or as a workaround if Alexa doesn't understand an instruction.
+
+Note:
++ Source selection sometimes becomes un-useful if device names or source name are complicated
++ Alexa's device name = ¨Zone name¨ + ¨Device name¨
+
 ----
+## IFTTT
 
+Compatible with same BLGW applets
 
+----
+## Products Groups & Credentials content provider
+
+|||
+### Products groups
+
++ Statically link NetworkLink products
++ A product group behaves as one device
++ Same source, same volume in the group
++ Solution for big rooms/installations
+
+Note:
+In a products' group, exist a master product that will be the source and volume reference of the group and the rest of the grouped products will follow any source/volume change of master automatically. BeoLiving App will only show the master.
+
+|||
+### Content provider credentials
+
++ Possible to set default credentials
++ BLI sets automatically credentials to new devices
++ Previously credentials setting was done manually for each product
+
+Note:
++ Doesn't override existant credentials on devices or sets on devices that previously had
++ Only set credentials when detects a new device without credentials setted
+
+----
 ## Thinks to remember
 
 - password "admin" is not valid!
@@ -135,14 +185,12 @@ Note:
 
 ----
 
-
 ### Service troubleshooting & Recovery mode guide
 
 - ECON usb to get service report
 - Service magic USB to recovery a "DEAD" box
 
 ----
-
 ### Documentation
 
 - Everything at github
@@ -150,84 +198,3 @@ Note:
   - Create a github user
   - Send the user to us
   - Edit it from github
-
-|||
-
-<!--
-### New features for the end user
-
-+ From the APP:
-   + Manage zones
-   + Assign resouces (NL)
-   + Request access to BLI (creates user)
-   + Manage products groups
-   + Set default credentials of Deezer and TuneIn
-
-|||
-//-->
-### Content provider credentials
-
-+ Possible to set default credentials
-+ BLI sets automatically credentials to new devices
-+ Previously credentials setting was done manually for each product
-
-Note:
-+ Doesn't override existant credentials on devices or sets on devices that previously had
-+ Only set credentials when detects a new device without credentials setted
-
-|||
-
-### Products groups
-
-+ Statically link NetworkLink products
-+ A product group behaves as one device
-+ Same source, same volume in the group
-+ Solution for big rooms/installations
-
-Note:
-In a products' group, exist a master product that will be the source and volume reference of the group and the rest of the grouped products will follow any source/volume change of master automatically. BeoLiving App will only show the master.
-
-----
-
-
-### Linking Alexa and IFTTT
-
-Linking process for both cloud services are the same. Linking process starts in their respective apps. Those apps redirects to khimo.com and:
-+ A QR code will be displayed that could be scanned through BeoLiving App, if you started the linking process from your pc (as an example).
-+ If you are using an iOS device, a button will be shown. After pressing it, BeoLiving App will come up to confirm authorization process.
-
-Khimo User/Password linking process (as it was for IFTTT) is also available as a legacy for BLGW users.
-
-----
-### Service troubleshooting & Recovery mode guide
-
-- ECON usb to get service report
-- Service magic USB to recovery a "DEAD" box
-
-
-Note:
-These two guides are specially directed to service staff. These describes different complemetary methods to follow in case of malfunction or innappropiate behavior. Besides the common service report procedure, there are two new methods:
-
-+ ECON: consist in attach a USB pendrive named as "ECON" into BLI. BLI will detect when this pendrive is attached and will download to it a big amount of information about BLI current state.
-+ Recovery mode: It's possible to boot BLI through a pendrive. This will backup current configuration into the pendrive, will erase current configuration in BLI and download last stable firmware.
-
-----
-## Algo de lua
-```lua
-function linkify( selector ) {
-  if( supports3DTransforms ) {
-
-    var nodes = document.querySelectorAll( selector );
-
-    for( var i = 0, len = nodes.length; i &lt; len; i++ ) {
-      var node = nodes[i];
-
-      if( !node.className ) {
-        node.className += ' roll';
-      }
-    }
-  }
-}
-```
-
-----
