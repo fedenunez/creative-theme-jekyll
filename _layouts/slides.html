@@ -1,30 +1,30 @@
 <!DOCTYPE html>
 <html lang="en">
   <head>
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/reveal.min.css">
-      <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/league.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/lib/css/zenburn.min.css">
+    <link rel="stylesheet" href="/vendor/reveal.js/css/reveal.css">
+      <link rel="stylesheet" href="/vendor/reveal.js/css/theme/league.css">
+    <link rel="stylesheet" href="/vendor/reveal.js/lib/css/zenburn.css">
  <!--
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/beige.min.css">
-   <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/black.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/beige.min.css">
-    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/css/theme/moon.min.css">
+    <link rel="stylesheet" href="/vendor/reveal.js/css/theme/beige.css">
+   <link rel="stylesheet" href="/vendor/reveal.js/css/theme/black.css">
+    <link rel="stylesheet" href="/vendor/reveal.js/css/theme/beige.css">
+    <link rel="stylesheet" href="/vendor/reveal.js/css/theme/moon.css">
 //-->
   </head>
   <body>
     <div class="reveal">
       <div class="slides">
         <script type="text/template" data-markdown
-                data-separator="^\n----*$"
-                data-separator-vertical="^\n[|][|][|][|]*$"
+                data-separator="^[ \t]*\n----*$"
+                data-separator-vertical="^[ \t]*\n[|][|][|][|]*$"
                 data-separator-notes="\n^Note:"
                 >
         {{ page.content }}
         </script>
       </div>
     </div>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/lib/js/head.min.js"></script>
-    <script src="https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/js/reveal.min.js"></script>
+    <script src="/vendor/reveal.js/lib/js/head.min.js"></script>
+    <script src="/vendor/reveal.js/js/reveal.js"></script>
     <script>
 (function() {
 Reveal.initialize({
@@ -34,12 +34,12 @@ history: true,
 center: true,
 dependencies: [
 { src: 'lib/js/classList.js', condition: function() { return !document.body.classList; } },
-{ src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-{ src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
-{ src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
-{ src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/search/search.js', async: true },
-{ src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/zoom-js/zoom.js', async: true },
-{ src: 'https://cdnjs.cloudflare.com/ajax/libs/reveal.js/3.6.0/plugin/notes/notes.js', async: true }
+{ src: '/vendor/reveal.js/plugin/markdown/marked.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+{ src: '/vendor/reveal.js/plugin/markdown/markdown.js', condition: function() { return !!document.querySelector( '[data-markdown]' ); } },
+{ src: '/vendor/reveal.js/plugin/highlight/highlight.js', async: true, callback: function() { hljs.initHighlightingOnLoad(); } },
+{ src: '/vendor/reveal.js/plugin/search/search.js', async: true },
+{ src: '/vendor/reveal.js/plugin/zoom-js/zoom.js', async: true },
+{ src: '/vendor/reveal.js/plugin/notes/notes.js', async: true }
 ]
 });
 })();
