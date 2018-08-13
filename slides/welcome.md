@@ -17,6 +17,7 @@ layout: slides
 
 - BASIC
 - PRO
+- pepperoni
 
 <br/>
 
