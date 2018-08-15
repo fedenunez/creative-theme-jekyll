@@ -35,7 +35,6 @@ by the serial number located on the bottom of each.
 + Before adding a product, at least one zone (the room where the product resides) must be created. Click on "Create zone" and create one.
 + Select the product you want to add from the list and click on "Assign to zone". Assign the product to the zone you just created.
 + Return to the _BeoLiving Intelligence_ main screen and you should see the zone with the icon of the product added.
-+ You can add more products to that zone, change a product from zone, or create more zones by pressing "Edit products". Note that only one icon per type of product will appear in the zone.
 
 <div class="row justify-content-center">
   <div class="col-sm-5">     
@@ -44,6 +43,10 @@ by the serial number located on the bottom of each.
 	</div>
   </div>
 </div>
+<br>
+
+You can **add more products to that zone, edit products name, change products from zone and create more zones** by pressing **"Edit products"**. 
+Note that only one icon per type of product will appear in the zone.
 
 ## Controlling Bang & Olufsen products
 
