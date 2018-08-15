@@ -113,7 +113,7 @@ unique home automation and audio/video ecosystem will be accessible as one entit
 
 ## Start now!
 
-Out of the box, **BeoLiving Intelligence** does not need an installer, a few simple non technical steps and it is ready to shine.
+**BeoLiving Intelligence** does not need an installer, a few simple non technical steps and it is ready to shine.
 
 Follow the _Quick setup_ to get your **BeoLiving Intelligence** up and running. Go to the _User guide_ for better understanding of all the 
 posibilities of **BeoLiving Intelligence**. The _Link to third parties_ guide lists all the steps to enable some of the third party services like 
