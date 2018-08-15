@@ -14,11 +14,8 @@ is directly accessible and configurable at the palm of your hand. Use the **BeoL
 & Olufsen** products alongside with the most popular Home Automation brands.
 
 Out of the box, **BeoLiving Intelligence** is in **BASIC** mode, meaning that it has most of its capabilities limited. **BeoLiving Intelligence** 
-is upgradable to **BeoLiving Intelligence PRO**, a full professional smart home solution through a one-time paid license fee. **BeoLiving 
-Intelligence PRO** transforms into the custom installer dream controller. With its Real-Time Configuration platform, it provides the simplest yet 
-most powefull way to integrate, control and automate an entire home. Even if you don't own any **Bang & Olufsen** products, your unique home 
-automation and audio/video ecosystem will be accessible as one entity through the expertly crafted **BeoLiving App**.
-
+is upgradable to **BeoLiving Intelligence PRO**, a full professional smart home solution through a one-time paid license fee.
+ 
 The next table shows the comparison between **BeoLiving Intelligence BASIC** and **BeoLiving Intelligence PRO**:
 
 <table class="table">
@@ -110,12 +107,16 @@ The next table shows the comparison between **BeoLiving Intelligence BASIC** and
 </table>
 <a id="Basic"/>
 
+**BeoLiving Intelligence PRO** transforms into the custom installer dream controller. With its Real-Time Configuration platform, it provides the 
+simplest yet most powefull way to integrate, control and automate an entire home. Even if you don't own any **Bang & Olufsen** products, your 
+unique home automation and audio/video ecosystem will be accessible as one entity through the expertly crafted **BeoLiving App**.
+
 ## Start now!
 
-Out of the box, _BeoLiving Intelligence_ does not need an installer, a few simple non technical steps and it is ready to shine.
+Out of the box, **BeoLiving Intelligence** does not need an installer, a few simple non technical steps and it is ready to shine.
 
-Follow the _Quick setup_ to get your _BeoLiving Intelligence_ up and running. Go to the _User guide_ for better understanding of all the 
-posibilities of _BeoLiving Intelligence_. The _Link to third parties_ guide lists all the steps to enable some of the third party services like 
+Follow the _Quick setup_ to get your **BeoLiving Intelligence** up and running. Go to the _User guide_ for better understanding of all the 
+posibilities of **BeoLiving Intelligence**. The _Link to third parties_ guide lists all the steps to enable some of the third party services like 
 _Alexa_ and _IFTTT_.
 
 <div class="row justify-content-md-center">
@@ -173,7 +174,7 @@ _Alexa_ and _IFTTT_.
 <a id="PRO"/>
 ## PRO
 
-To unleash the full capabilities of _BeoLiving Intelligence_, upgrade to its _PRO_ version. Go to the _PRO User guide_ to learn all of its 
+To unleash the full capabilities of **BeoLiving Intelligence**, upgrade to its **PRO** version. Go to the _PRO User guide_ to learn all of its 
 funtionalities and features and refer to the _System drivers guide_ if you want information about a specific supported driver.
 
 <div class="row justify-content-md-center">
