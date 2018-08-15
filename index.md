@@ -4,35 +4,110 @@ title: BeoLiving documentation
 
 
 
-A focus on making life easier and more enjoyable has given rise to _BeoLiving Intelligence_, the first Plug & Play smart home 
-controller for _Bang & Olufsen_ products. _BeoLiving Intelligence_, [successor of _BeoLink Gateway_](bli-guides/bli-whats-new.md), is the new 
-creation resulting from the _Bang & Olufsen_ and _Khimo_ partnership which dates back to 2006. _BeoLiving Intelligence_ expands the way _Bang & 
+A focus on making life easier and more enjoyable has given rise to **BeoLiving Intelligence**, the first Plug & Play smart home 
+controller for _Bang & Olufsen_ products. **BeoLiving Intelligence**, [successor of _BeoLink Gateway_](bli-guides/bli-whats-new.md), is the new 
+creation resulting from the _Bang & Olufsen_ and _Khimo_ partnership which dates back to 2006. **BeoLiving Intelligence** expands the way _Bang & 
 Olufsen_ products can work together, as well as allowing them to interact with many other brands of consumer electronic devices.
 
-Together with the beautifully sculpted, simple and intuitive, companion _BeoLiving App_, all the magic that _BeoLiving Intelligence_ allows is 
-directly accessible and configurable at the palm of your hand. Use the _BeoLiving App_ in your phone or tablet to easily control your 
-_Bang & Olufsen_ products alongside with the most popular Home Automation brands.
+Together with the beautifully sculpted, simple and intuitive, companion **BeoLiving App**, all the magic that **BeoLiving Intelligence** allows 
+is directly accessible and configurable at the palm of your hand. Use the **BeoLiving App** in your phone or tablet to easily control your **Bang 
+& Olufsen** products alongside with the most popular Home Automation brands.
 
-The main features of the _BeoLiving Intelligence_ are:
+Out of the box, **BeoLiving Intelligence** is in **BASIC** mode, meaning that it has most of its capabilities limited. **BeoLiving Intelligence** 
+is upgradable to **BeoLiving Intelligence PRO**, a full professional smart home solution through a one-time paid license fee. **BeoLiving 
+Intelligence PRO** transforms into the custom installer dream controller. With its Real-Time Configuration platform, it provides the simplest yet 
+most powefull way to integrate, control and automate an entire home. Even if you don't own any **Bang & Olufsen** products, your unique home 
+automation and audio/video ecosystem will be accessible as one entity through the expertly crafted **BeoLiving App**.
 
-+ Control _Bang & Olufsen_ (NetworkLink type) products with your _iOS_ device of choice.
-+ Voice control through Alexa.
-+ IFTTT support.
-+ Creation of routines to automates the control of several products at once.
+The next table shows the comparison between **BeoLiving Intelligence BASIC** and **BeoLiving Intelligence PRO**:
 
-_BeoLiving Intelligence_ is upgradable to *BeoLiving Intelligence PRO*, a full professional smart home solution through a one-time paid license 
-fee. *BeoLiving Intelligence PRO* transforms into the custom installer dream controller. With its Real-Time Configuration platform, it provides 
-the simplest yet most powefull way to integrate, control and automate an entire home. Even if you don't own any _Bang & Olufsen_ products, your 
-unique home automation and audio/video ecosystem will be accessible as one entity through the expertly crafted _BeoLiving App_.
-
-The main additions of the _BeoLiving Intelligence PRO_ upgrade are:
-
-+ Integration with most popular Home Automation brands.
-+ Web interface advanced configuration, with more customization such as area/zone creations, scenes and more.
-+ Control your products through its web interface.
-+ Control your products through _Bang & Olufsen_ TVs.
-+ Customization of the _BeoLiving App_.
-
+<table class="table">
+  <thead>
+    <tr style="color: #eb5946">
+      <th scope="col" style="width: 40%">Features</th>
+      <th scope="col" class="text-center">BASIC</th>
+      <th scope="col" class="text-center">PRO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Control of Bang & Olufsen products</td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Control through BeoLiving App</td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Voice control through Alexa</td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>IFTTT support</td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Integration with most popular Home Automation brands</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Web interface advanced configuration</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Control through its Web interface</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Control through Bang & Olufsen's TV's</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Customization of BeoLiving App</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+  </tbody>
+</table>
 <a id="Basic"/>
 
 ## Start now!
