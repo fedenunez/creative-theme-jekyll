@@ -483,7 +483,7 @@ To add a camera you must fill the next form:
 - **Base URL**: A Base URL (_URL_: _Port number_) to which all commands will be appended must be provided. The format may vary, e.g. 
 http://192.168.1.37:80.
 - **Base RTSP URL**: If your camera supports _RTSP_ protocol with _H264_ encoded stream format, base URL of RTSP server could be specified 
-(rtsp://_URL_: _Server Port_ e.g. rtsp://bigserver.com:8001) and _Base URL_ must be left empty. 
+(rtsp://_URL_:_Server Port_ e.g. rtsp://bigserver.com:554). 
 - **Username** and **Password**: The optional _Username_ and _Password_ fields may be used for basic HTTP authentication to access the camera from
  the user interfaces.
 
