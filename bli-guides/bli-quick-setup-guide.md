@@ -3,20 +3,21 @@ title: BeoLiving Intelligence Quick Setup Guide
 layout: pagetoc
 ---
 
-_BeoLiving Intelligence_ is a Plug & Play home automation controller. The next steps show how to quickly set your _BeoLiving Intelligence_ up and ready for basic use.
+_BeoLiving Intelligence_ is a Plug & Play home automation controller. The next steps show how to quickly set up your _BeoLiving Intelligence_.
 
 ## Setting up the _BeoLiving Intelligence_
 
-By default, _BeoLiving Intelligence_ comes configured in DHCP mode. This means it gets its IP address from the router it is connected to. To configure a static IP address, please refer to [_BeoLiving Intelligence Advanced User Guide_](bli-advanced-user-guide.md).
+By default, _BeoLiving Intelligence_ comes configured in DHCP mode. This means it gets its IP address from the router it is connected to. To 
+configure a static IP address, please refer to [BeoLiving Intelligence Advanced User Guide](bli-advanced-user-guide.md).
 
-Follow the next steps fro setting up your BeoLiving Intelligence:
+Follow the next steps for setting up your BeoLiving Intelligence:
  
 + Connect your _BeoLiving Intelligence_ to your LAN through its RJ45 ethernet port.
 + Power your _BeoLiving Intelligence_ using the AC power supply or by using PoE (Power over Ethernet).
 + Wait until the _BeoLiving Intelligence_ is on normal operation mode (the User LED in solid green).
 + Go to the store in your smart device, download and install the _BeoLiving App_.
 + Open the _BeoLiving App_. When your _BeoLiving Intelligence_ is ready a pop-up will appear. If you own more than one, you can identify them 
-by the serial number located on the bottom of each.
+by the serial number located at the back side of each.
 + Once in the pop-up window press "_Request access_" and follow the instructions provided.
 + Your _BeoLiving Intelligence_ should appear on the _BeoLiving App_ main screen, ready to be used.
 
@@ -101,7 +102,7 @@ Creating a group of Bang & Olufsen products lets you control all of them as if t
   </div>
 </div>
 
-## Enabling remote access (PRO only)
+## Enabling remote access
 
 _BeoLiving Intelligence_ allows you to control your products from outside your home. To do so, _Remote Access_ must be enabled:
 
@@ -120,14 +121,18 @@ _BeoLiving Intelligence_ allows you to control your products from outside your h
 ## Controlling products with your voice
 
 Most of the functionalities you can control with the _BeoLiving App_ can also be controlled with your voice if you have an Amazon Alexa (or if you have it in your phone). For instance, you could ask Alexa to "Turn on Deezer on the M5".
-To be able to do so, a linking process must be done first: please refer to [_BeoLiving Intelligence Link to Third Party Cloud Service Guide_](bli-link-third-party-service.md). A complete list of the available commands can be found in the Alexa skill for the _BeoLiving Intelligence_.
+To be able to do so, a linking process must be done first: please refer to [BeoLiving Intelligence Link to Third Party Cloud Service Guide](bli-link-third-party-service.md). A complete list of the available commands can be found in the Alexa skill for the _BeoLiving Intelligence_.
 
 ## Integrating the BeoLiving Intelligence with other services
 
-_BeoLiving Intelligence_ supports IFTTT, enabling the integration of it with different services. For example, you could configure it to changie the source of a TV by sending an email, and many other combinations. A linking process very similar to the one for Alexa has to be made first, please refer to _[BeoLiving Intelligence Link to Third Party Cloud Service Guide](bli-link-third-party-service.md)_. A complete list of the available combinations can be found in the IFTTT page.
+_BeoLiving Intelligence_ supports IFTTT, enabling the integration of it with different services. For example, you could configure it to change the
+ source of a TV by sending an email, and many other combinations. A linking process very similar to the one for Alexa has to be made first, please
+ refer to [BeoLiving Intelligence Link to Third Party Cloud Service Guide](bli-link-third-party-service.md). A complete list of the available 
+combinations can be found in the IFTTT page.
 
 ## Advanced usage
 
-_BeoLiving Intelligence_ has a lot more functionalities than the described in this guide, please refer to [_BeoLiving Intelligence Advanced User Guide_](bli-advanced-user-guide.md) to know all the _BeoLiving Intelligence_ has to offer. In that guide, you can also find how to upgrade to _PRO_, which will add even more functionalities to it and enhance your experience.
+Continue with [BeoLiving Intelligence Advanced User Guide](bli-advanced-user-guide.md) to learn web interface configuration in _BASIC_ mode. 
+Also, you will find how to upgrade to _PRO_ mode, which will add even more functionalities to it and enhance your experience.
 
 Enjoy your smart home experience with _BeoLiving Intelligence_! 

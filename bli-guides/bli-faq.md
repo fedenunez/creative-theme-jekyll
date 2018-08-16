@@ -3,7 +3,7 @@ title:  BeoLiving Intelligence - FAQ
 layout: pagetoc
 ---
 
-### How to upgrade _BeoLiving Intelligence_ to PRO?
+### How to upgrade _BeoLiving Intelligence_ to PRO mode?
 
 _BeoLiving Intelligence_ could be upgraded through its web interface pressing in "_BASIC_" at upper-left top bar and clicking at "_Click to 
 upgrade_" link in _License type_.
@@ -59,8 +59,8 @@ At _Systems_ section of _BeoLiving Intelligence_ web interface, check that _Conn
 
 Try to provoke a system reset of the HA system and check if connection can be established.
 
-If connection can not be restored, follow the instructions at [BeoLiving Intelligence Troubleshooting Guide](bli-troubleshooting.md) of how to create and 
-send a _Service report_ of your _BeoLiving Intelligence_.
+If connection can not be restored, follow the instructions at [BeoLiving Intelligence Troubleshooting Guide](bli-troubleshooting.md) of how to 
+create and send a _Service report_ of your _BeoLiving Intelligence_.
 
 ### How can I find a specific source of an A/V device in _BLApp_?
 
@@ -72,44 +72,151 @@ interfaces check _Interfaces_ section of [BeoLiving Intelligence PRO User Guide]
 
 _BeoLiving Intelligence_ Led color displays the actual state of your _BeoLiving Intelligence_. The combination between color and pattern represent an specific _BeoLiving Intelligence_ state:
 
-| Activity                       | LED state                  |
-|--------------------------------|----------------------------|
-| Normal operation               | Constant Green             |
-| Critical error                 | Flash Red / Yellow         |
-| Firmware update                | Quick flash Green          |
-| Loading configuration          | Quick flash Green          |
-| Waiting for User confirmation  | Quick flash Green / Yellow |
-| User confirmation acknowledge  | Constant Yellow            |
-| Boot                           | Transition Red / Yellow    |
+<table class="table">
+  <thead>
+    <tr>
+      <th scope="col" style="color: #eb5946">Activity</th>
+      <th scope="col" style="color: #eb5946">LED state</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Normal operation</td>
+      <td>Solid Green</td>
+    </tr>
+    <tr>
+      <td>Critical error</td>
+      <td>Red / Yellow flash</td>
+    </tr>
+    <tr>
+      <td>Firmware update</td>
+      <td>Green quick flash</td>
+    </tr>
+    <tr>
+      <td>Loading configuration</td>
+      <td>Green quick flash</td>
+    </tr>
+    <tr>
+      <td>Waiting for User confirmation</td>
+      <td>Green / Yellow quick flash</td>
+    </tr>
+    <tr>
+      <td>User confirmation acknowledge</td>
+      <td>Solid Yellow</td>
+    </tr>
+    <tr>
+      <td>Boot</td>
+      <td>Red / Yellow transition</td>
+    </tr>
+  </tbody>
+</table>
 
 
-### What are the upgrades in the _BeoLiving Intelligence PRO_?
 
-_BeoLiving Intelligence_ has most of his capabilities reduced. Upgrading your _BeoLiving Intelligence_ to _BeoLiving Intelligence PRO_, will let you experience all your _BeoLiving Intelligence_ can offer, as the next table
- shows:
+### What's the difference between _BASIC_ and _PRO_ mode?
 
-| Functionalities                                                                                | _BeoLiving Intelligence_ | _BeoLiving Intelligence PRO_ |
-|------------------------------------------------------------------------------------------------|-------|-----------|
-| Control _B&O NetworkLink_ products                                                             | **+** |   **+**   | 
-| Remote access                                                                                  | **+** |   **+**   |
-| Alexa, IFTTT integration                                                                       | **+** |   **+**   |
-| Configuration with _BeoLiving App_ (Limited compared with configuration through web interface) | **+** |   **+**   | 
-| Control over _BeoLiving App_                                                                   | **+** |   **+**   |
-| Configuration with web interface                                                               |       |   **+**   |
-| Control over _WebPanel_ (Browser) and TV's _Home Control_                                      |       |   **+**   |
-| Integration with _Home Automation_ systems                                                     |       |   **+**   | 
-| Customization of _BeoLiving App_ intallation control                                           |       |   **+**   | 
+The next table shows the comparison between **BeoLiving Intelligence BASIC** and **BeoLiving Intelligence PRO**:
 
+<table class="table">
+  <thead>
+    <tr style="color: #eb5946">
+      <th scope="col" style="width: 40%">Features</th>
+      <th scope="col" class="text-center">BASIC</th>
+      <th scope="col" class="text-center">PRO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Control of Bang & Olufsen products</td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Control through BeoLiving App</td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Voice control through Alexa</td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>IFTTT support</td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Integration with most popular Home Automation brands</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Web interface advanced configuration</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Control through its Web interface</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Control through Bang & Olufsen's TV's</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Customization of BeoLiving App</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<a id="Basic"/>
 
 ### Can I controll my devices outside my house?
 
-Remote access is available in all firmware versions of _BeoLiving Intelligence_. You can activate it by going to your _BeoLiving Intelligence_ settings in the _BLApp_.
+Remote access is available in all firmware versions of _BeoLiving Intelligence_. You can activate it by going to your _BeoLiving Intelligence_ 
+settings in the _BLApp_.
 
 ### How can I control my _BeoLiving Intelligence_?
 
-_BeoLiving Intelligence_ has multiple ways of user interfaces for control your building. From factory, _BeoLiving Intelligence_ could be controlled only by _BeoLiving App_ and _Voice_ 
-(linking your _BeoLiving Intelligence_ with _Alexa_). After upgrading your _BeoLiving Intelligence_ to _BeoLiving Intelligence PRO_, control through _BeoLiving Intelligence_ web interface and _Home 
-Control_ native application of Bang & Olufsen TV's becomes available.
+_BeoLiving Intelligence_ has multiple ways of user interfaces for control your building. From factory, _BeoLiving Intelligence_ could be 
+controlled only by _BeoLiving App_ and _Voice_ (linking your _BeoLiving Intelligence_ with _Alexa_). After upgrade your _BeoLiving Intelligence_ 
+mode to _PRO_, control through _BeoLiving Intelligence_ web interface and _Home Control_ native application of Bang & Olufsen TV's becomes 
+available.
 
 ### If the power goes off, do I lost _BeoLiving Intelligence_ configuration?
 
@@ -134,11 +241,11 @@ a standard resource. Those don't have a graphic respresentation in user interfac
 ### How can I know which _Home Automation_ systems can be integrated?
 
 As this market never stops growing, we don't stop integrating new _Home Automation_ systems and cloud services. The list of all supported systems 
-are showed at [**System Drivers Guide**](../bli-help-files/drivers/main.md) page. For being updated with the latest news of new supported systems
- and functionalities don't miss our _[Newsletter](***LINK***)_.
+are showed at [System Drivers Guide](../bli-help-files/drivers/main.md) page. For being updated with the latest news of new supported systems
+ and functionalities don't miss our [Newsletter](***LINK***).
 
 ### Are the firmware updates necessary?
 
-_BeoLiving Intelligence_ comes by default with automatic firmware updates enabled,  you can choose to turn-off that option and check for firmware updates manually.  Firmware updates are highly recommended in order to avoid malfunction or abnormal
-operation.
+_BeoLiving Intelligence_ comes by default with automatic firmware updates enabled,  you can choose to turn-off that option and check for firmware 
+updates manually.  Firmware updates are highly recommended in order to avoid malfunction or abnormal operation.
 

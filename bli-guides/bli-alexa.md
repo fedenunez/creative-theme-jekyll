@@ -6,19 +6,15 @@ layout: pagetoc
 ## Introduction
 
 The scope of this guide comprise a full description of all available voice commands and devices you can control between _Alexa_ and _BeoLiving 
-Intelligence_. To enable this feature, remote connection must be enabled in your _BeoLiving Intelligence_ (more information at [BeoLiving Intelligence Quick Setup guide](bli-quick-setup-guide.md)) and  _Alexa_'s skill "_BeoLiving Intelligence skill by Khimo_" must be enabled through _Alexa App_ (refer to [BeoLiving Intelligence Link to Third Party Cloud Service Guide](bli-link-third-party-service.md)). 
+Intelligence_. To enable this feature, _Alexa_'s skill "_BeoLiving Intelligence skill by Khimo_" must be enabled through _Alexa App_ (refer to [BeoLiving Intelligence Link to Third Party Cloud Service Guide](bli-link-third-party-service.md)). 
 
-**This feature is not upgrade dependent**, so is available in any _BeoLiving Intelligence_ version. If you have not upgraded your _BeoLiving 
-Intelligence_ to _PRO_, then all devices apart from _Bang & Olufsen_ devices could not be controlled through _Alexa_.
+**This feature does not depend in BeoLiving Intelligence mode (BASIC or PRO)**. If you have not upgraded your _BeoLiving Intelligence_ to _PRO_ 
+mode, then all devices apart from _Bang & Olufsen_ devices could not be controlled through _Alexa_.
 
 ## Terminology
 
-+ _BeoLiving Intelligence_: Controller with same capabilities as it comes from out of the box.
-+ _BeoLiving Intelligence PRO_: Controller with fully capabilities that could offer after upgrading to _PRO_.
 + _BLI_: Alias for BeoLiving Intelligence.
-+ _BLI PRO_: Alias for BeoLiving Intelligence PRO.
 + _BLApp_: BeoLiving App.
-
 
 ## Discovery
 
@@ -135,7 +131,7 @@ Supported commands for each device depends in its capabilities. For example, a m
 + Select source(input):
   + "_Alexa, change the input to (SOURCE-NAME) on (DEVICE-NAME)_"
   + _Description_: Selects source on device. In _Alexa's_ language, "sources" are equivalent to "inputs". Possible sources are all enabled sources
-  on device and manual sources added in _BLI_ _Interfaces_ page (only being _PRO_).
+  on devices in _BLI_ _Interfaces_ page (only in _PRO_ mode).
 
 ## How to change discovered device name
 
@@ -143,7 +139,7 @@ Sometimes, Alexa's identifier device name could not be a suitable name to be use
 not understand and complete the instruction, being necessary to edit Alexa's device name.
 
 The ways to edit the Alexa's identifier device name are:
-  + change the resource name at _BLI_ configuration (through _BLApp_ or web interface, being _PRO_) and re-discover all devices.
+  + change the resource name at _BLI_ configuration (through _BLApp_ or web interface, being in _PRO_ mode) and re-discover all devices.
   + edition through _Alexa App_ for all devices that are not _AV renderer_ _BLI's_ resource type. This is a known limitation of _Alexa App_.  
   
 ## Workarounds when select input fails
@@ -155,6 +151,6 @@ instruction.
 
 When its impossible for _Alexa_ to select an specific source, try:
 
-+ Change source name through _Interfaces_ page at _BLI_ web interface (only being _PRO_). Then re-discover devices.
++ Change source name through _Interfaces_ page at _BLI_ web interface (only in _PRO_ mode). Then re-discover devices.
 + Create a macro in _BLI_ that selects the source in the device and call "_Alexa, activate (SCENE-NAME)_". To start using the macro with _Alexa_, 
 call for a device discovery.

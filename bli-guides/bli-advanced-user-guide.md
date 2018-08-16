@@ -6,32 +6,23 @@ layout: pagetoc
 ## Introduction
 
 This guide provides:
-- A description of all the elements that come inside a _BeoLiving Intelligence_ box.
-- How to find an access a _BeoLiving Intelligence_ within the network.
-- An introduction to the _BeoLiving Intelligence_ functionalities.
-- An overview of the different sections of its web interface.
+- A description of all elements that come inside a _BeoLiving Intelligence_ box.
+- How to find and access _BeoLiving Intelligence_ within the network.
+- An overview of different sections of its web interface in _BASIC_ mode.
+- How to upgrade your _BeoLiving Intelligence_ to _PRO_ mode.
 
-_BeoLiving Intelligence_ comes out of the box with a big limitation in all the functionalities it could offer. To use it
-in its full capabilities, you should upgrade your _BeoLiving Intelligence_ to _PRO_ mode. This will allow for full integration
-of _Bang & Olufsen_ NetworkLink audio and video products with several Home Automation systems such as Nest, Philips Hue,
-KNX and Lutron, among others. (see section [*Upgrade to PRO*](#upgrade-pro), or refer to [_BeoLiving Intelligence PRO User Guide_](bli-pro-user-guide.md) for futher information), 
-
-Most of _BeoLiving Intelligence_ configuration and usage it's done through the _BeoLiving App_. This Smart Device application lets you customize 
-your installation and control all devices in it. _BeoLiving Intelligence_ also provides a web interface, which out of the box provides Network 
-settings and User access control management. After upgrading your controller to _BeoLiving Intelligence PRO_, the web interface becomes the most 
-important tool for installation, configuration and programming. 
-
-_BeoLiving Intelligence_ provides support in two ways:
-
-- Hassle free integration of _Bang & Olufsen_ NetworkLink A/V systems with other control systems, without extra boxes.
-- Control of the entire home via either a _Bang & Olufsen_ remote control, the _BeoLiving App_, or the overlay menus on a _Bang & Olufsen_ TV.
+Most of _BeoLiving Intelligence_ configuration and usage in _BASIC_ mode it's done through the _BeoLiving App_. This Smart Device application lets
+ you customize your installation and control all devices in it. _BeoLiving Intelligence_ also provides a web interface, which out of the box 
+provides Network settings and User access control management. After upgrading your controller to _BeoLiving Intelligence PRO_, the web interface 
+becomes the most important tool for installation, configuration and programming. 
 
 ## Terminology
 
-+ _BeoLiving Intelligence_: Controller as it comes from out of the box.
-+ _BeoLiving Intelligence PRO_: Controller with full capabilities.
++ _BeoLiving Intelligence BASIC_: BeoLiving Intelligence in _BASIC_ mode.
++ _BeoLiving Intelligence PRO_: BeoLiving Intelligence in _PRO_ mode.
 + _BLI_: Alias for BeoLiving Intelligence.
-+ _BLI PRO_: Alias for BeoLiving Intelligence PRO.
++ _BLI BASIC_: Alias for BeoLiving Intelligence _BASIC_.
++ _BLI PRO_: Alias for BeoLiving Intelligence _PRO_.
 + _BLApp_: BeoLiving App.
 + _LAN_: Local Area Network.
 + _DHCP_: Dynamic Host Configuration Protocol.
@@ -147,7 +138,7 @@ To execute a function, press and hold the setup button. This will cycle through 
 Release the button when you get to the desired function number and the LED will start to blink, press the setup button again in order to 
 confirm the function execution.
 
-In addition to being used to confirm the input function, a single press during normal operation is used to fire System event (refer to [_BeoLiving Intelligence PRO User Guide_](bli-pro-user-guide.md)).
+In addition for being used to confirm the input function, a single press during normal operation is used to fire System event (refer to [_BeoLiving Intelligence PRO User Guide_](bli-pro-user-guide.md)).
 
 ## Web interface usage
 
@@ -157,12 +148,12 @@ The initial page after accessing the _BLI_ via web browser shows two buttons: _W
   <img src="pictures/bli-advanced-user-guide/init-page.png" class="img-fluid" alt="Init page"/>
 </div>
 
-+ **WEBPANEL**: This interface offers home automation control of your setup. Control of _NetworkLink_ products is not supported, only Scenes could be fired. Being _PRO_, besides _NetworkLink_ products, it will be possible to control all your installation.
++ **WEBPANEL**: This interface offers home automation control of your setup. Control of _NetworkLink_ products is not supported, only Scenes could be fired. With _BLI PRO_, besides _NetworkLink_ products, it will be possible to control all your installation.
 + **SETUP**: This interface is used for configuring/programming your _BLI_ setup.
 
 ### Setup interface {#setup-interface}
 
-The Setup web interface for a _BLI_ does not offer a high degree of customization. In fact, this interface should be used in exceptional cases as for example: Upgrade your _BLI_ to _PRO_ (see section [*Upgrade to PRO*](#upgrade-pro) for further information). After upgrading the Setup web interface is the most important tool for configuring and programming your setup.
+The Setup web interface of _BLI BASIC_ does not offer a high degree of customization. In fact, this interface should be used in exceptional cases as for example: Upgrade your _BLI_ to _PRO_ (see section [*Upgrade to PRO*](#upgrade-pro) for further information). After upgrading the Setup web interface is the most important tool for configuring and programming your setup.
 
 An installer can access the _BLI_ setup interface with the _admin_ user. To reinforce security, _admin_ password is by default unknown. If for some reason it is necessary to make use of the Setup web interface, the _admin_ password can be reset by activating the Setup button function (2). After the button function input, _admin_ password will be _"admin"_ for the next 5 minutes. After login you will be immediately asked to modify it.
 
@@ -170,8 +161,8 @@ An installer can access the _BLI_ setup interface with the _admin_ user. To rein
 
 <img src="pictures/bli-advanced-user-guide/basic.png" class="img-fluid" alt="Upgrade page"/>
 
-At the top menu bar, **BASIC** access page could be found. This page contains information regarding your _BLI_ and _Licensing information_.
-In _Product information_, _License type_ shows the current license of your _BLI_ and for _BLI's_ with _BASIC_ license _Click to upgrade_ link 
+At the top menu bar, **BASIC** access page could be found. This page contains information regarding your _BLI_ and _Licensing information_ (mode).
+In _Product information_, _License type_ shows the current license (mode) of your _BLI_ and for _BLI's_ in _BASIC_ mode _Click to upgrade_ link 
 is showed. This link will redirect your browser to *Khimo.com* to start the upgrade process. Payment is done through _PayPal_.
 
 After payment process finishes, your _BLI_ will start the upgrade process immediately which could last one minute approximately.

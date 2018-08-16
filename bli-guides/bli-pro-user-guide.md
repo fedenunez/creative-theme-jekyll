@@ -5,29 +5,34 @@ layout: pagetoc
 
 ## Introduction
 
-The scope of this guide comprise an introduction to _BeoLiving Intelligence_ in _PRO_ mode, a detailed description of its web interface used for configuration/programming your setup and "How to's" of different features. _BeoLiving Intelligence PRO_ has all of its capabilities unblocked and this guide will let you exploit your Home Automation controller to its maximum.
+The scope of this guide comprise an introduction to _BeoLiving Intelligence_ in _PRO_ mode, a detailed description of its web interface used for 
+configuration/programming your setup and "How to's" of different features. _BeoLiving Intelligence_ in PRO mode has all of its capabilities 
+unblocked and this guide will let you exploit your Home Automation controller to its maximum.
 
 Before reading this guide, it's recommended reading [BeoLiving Intelligence Quick Setup Guide](bli-quick-setup-guide.md) and [BeoLiving Intelligence Advanced User Guide](bli-advanced-user-guide.md) for better understanding of some concepts and useful information, not included in this guide.
 
-_BeoLiving Intelligence PRO_ upgrade enables the unique capability of integrating Bang & Olufsen Network Link systems (audio and video products) with some of the most popular Home Automation systems such as Nest, Philips Hue, KNX, Lutron, among others, creating versatile solutions and a great experience for _BeoLiving Intelligence_ users.
+_BeoLiving Intelligence_ in _PRO_ mode enables a unique capability of integrating Bang & Olufsen Network Link systems (audio and video products) with some of the most popular Home Automation systems such as Nest, Philips Hue, KNX, Lutron, among others, creating versatile solutions and a great experience for _BeoLiving Intelligence_ users.
 
-_BeoLiving Intelligence PRO_ web interface is the most important tool for configuration and programming your installation. Certain degree of configuration could be made through BeoLiving App but it's targeted for user use.
+_BeoLiving Intelligence PRO_'s web interface is the most important tool for configuration and programming your installation. Certain degree of configuration could be made through BeoLiving App but it's targeted for user use.
 
 ## Terminology
 
-+ _BeoLiving Intelligence_: Controller with same capabilities as it comes from out of the box.
-+ _BeoLiving Intelligence PRO_: Controller with fully capabilities that could offer after buyable Firmware upgrade.
++ _BeoLiving Intelligence BASIC_: BeoLiving Intelligence in _BASIC_ mode.
++ _BeoLiving Intelligence PRO_: BeoLiving Intelligence in _PRO_ mode.
 + _BLI_: Alias for BeoLiving Intelligence.
-+ _BLI PRO_: Alias for BeoLiving Intelligence PRO.
++ _BLI BASIC_: Alias for BeoLiving Intelligence _BASIC_.
++ _BLI PRO_: Alias for BeoLiving Intelligence _PRO_.
 + _BLApp_: BeoLiving App.
 + _NL_: Network Link.
 + _LAN_: Local Area Network.
 + _DHCP_: Dynamic Host Configuration Protocol.
 + _HA_: Home Automation.
 
+<!--
 ## Installation overview
 
 TODO: Diagram
+-->
 
 ## Set up the BeoLiving Intelligence PRO
 
@@ -243,16 +248,16 @@ etc. E.g. a standard button supports PRESS, HOLD and RELEASE actions plus a stat
 can extend the standard button to provide extra features (see this in the drop down list). The purpose of having standard resource types is that 
 such common set of features are shared by the most supported systems.
 + **Address**: Unique identification of a resource. The format depends on the _HA_ system - using various number scheme.
-+ **Capture**: Same as [_BeoLink resources_](#beolink-resources).
++ **Capture**: Same as [BeoLink resources](#beolink-resources).
 + **Import resources**: Used to import _HA_ system resources into _BLI_ uploading an specific _HA_ system file or just requesting them directly. 
 This feature depends on each _HA_ system driver. 
 
 #### Virtual resources
 
-An example of a _Virtual Resource_ is a button on the user interface (_BLApp_, TV overlay menu, _WEBPANEL_) e.g. a virtual button for cinema 
+An example of a _Virtual Resource_ is a button on the user interface (_BLApp_, TV overlay menu, _Webpanel_) e.g. a virtual button for cinema 
 scene, or a boolean variable to indicate that a specific condition has been reached. _Virtual Resources_ makes possible to define buttons and 
 variables of String, Integer and Boolean types for systems, without implementing these directly. The _BLApp_ currently uses virtual buttons for 
-displaying scene buttons. _Virtual Resources_ have no functionality by themselves. _[Macros](#macros)_ must be defined to link user actions on a 
+displaying scene buttons. _Virtual Resources_ have no functionality by themselves. [Macros](#macros) must be defined to link user actions on a 
 virtual resource, with events and commands in the systems.
 
 <img src="pictures/pro-guide/resources-virtual.png" class="img-fluid" alt="Virtual resources page"/>
@@ -274,10 +279,10 @@ helps when setting up user interfaces. The left column shows all _Macros_ contai
 For each macro, the next buttons are available:
 
 + **Add event**: used to add an _Event_ to a _Macro_. The two buttons (see above) that can be used to set the cinema scene. See 
-_[Resource Event](#resource-event)_ section.
+[Resource Event](#resource-event) section.
 + **Capture**: when the _Capture_ button is pressed, all system/resource events fired from that moment will be displayed so that they can be added.
 Example of events captured could be: the press of a virtual or phisical button, the source selection in a A/V renderer device.
-+ **Add command**: used to define the commands of a _Macro_. See _[Resource Command](#resource-command)_ section.
++ **Add command**: used to define the commands of a _Macro_. See [Resource Command](#resource-command) section.
 + **Clone**: creates an exact copy of the _Macro_ adding "_- Clone n_" as subfix to the cloned _Macro_ name, where _n_ is the number of clones made.
 + **Remove**: deletes _Macro_.
 + **Fire**: fires/triggers _Macro_.
