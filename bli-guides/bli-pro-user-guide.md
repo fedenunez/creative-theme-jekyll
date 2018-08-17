@@ -213,10 +213,10 @@ For each system installed, a text string icon is shown in the bottom of the scre
 background of the text string icon. 
 
 <table class="table">
-  <thead class="thead-light">
-    <tr>
-      <th scope="col">Color</th>
-      <th scope="col">State</th>
+  <thead>
+    <tr style="color: #eb5946" >
+      <th scope="col" style="width: 50%">Color</th>
+      <th scope="col" style="width: 50%">State</th>
     </tr>
   </thead>
   <tbody>
