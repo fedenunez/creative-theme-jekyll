@@ -8,7 +8,7 @@ layout: pagetoc
 The scope of this guide comprise a full description of all available voice commands and devices you can control between _Alexa_ and _BeoLiving 
 Intelligence_. To enable this feature, _Alexa_'s skill "_BeoLiving Intelligence skill by Khimo_" must be enabled through _Alexa App_ (refer to [BeoLiving Intelligence Link to Third Party Cloud Service Guide](bli-link-third-party-service.md)). 
 
-**This feature does not depend in BeoLiving Intelligence mode (BASIC or PRO)**. If you have not upgraded your _BeoLiving Intelligence_ to _PRO_ 
+**This feature does not depend in BeoLiving Intelligence mode (ESSENTIAL or PRO)**. If you have not upgraded your _BeoLiving Intelligence_ to _PRO_ 
 mode, then all devices apart from _Bang & Olufsen_ devices could not be controlled through _Alexa_.
 
 ## Terminology

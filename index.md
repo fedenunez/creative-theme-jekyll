@@ -13,17 +13,17 @@ Together with the beautifully sculpted, simple and intuitive, companion **BeoLiv
 is directly accessible and configurable at the palm of your hand. Use the **BeoLiving App** in your phone or tablet to easily control your **Bang 
 & Olufsen** products alongside with the most popular Home Automation brands.
 
-Out of the box, **BeoLiving Intelligence** comes in **BASIC** mode: easy to configure, install and start living the experience. But this is just a
+Out of the box, **BeoLiving Intelligence** comes in **ESSENTIAL** mode: easy to configure, install and start living the experience. But this is just a
  sample of all what **BeoLiving Intelligence** can do: by upgrading to **BeoLiving Intelligence PRO** through a one-time paid license fee, you 
 will have access to a full professional smart home solution.
  
-The next table shows the comparison between **BeoLiving Intelligence BASIC** and **BeoLiving Intelligence PRO**:
+The next table shows the comparison between **BeoLiving Intelligence ESSENTIAL** and **BeoLiving Intelligence PRO**:
 
 <table class="table">
   <thead>
     <tr style="color: #eb5946">
       <th scope="col" style="width: 40%">Features</th>
-      <th scope="col" class="text-center">BASIC</th>
+      <th scope="col" class="text-center">ESSENTIAL</th>
       <th scope="col" class="text-center">PRO</th>
     </tr>
   </thead>

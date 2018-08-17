@@ -8,20 +8,20 @@ layout: pagetoc
 This guide provides:
 - A description of all elements that come inside a _BeoLiving Intelligence_ box.
 - How to find and access _BeoLiving Intelligence_ within the network.
-- An overview of different sections of its web interface in _BASIC_ mode.
+- An overview of different sections of its web interface in _ESSENTIAL_ mode.
 - How to upgrade your _BeoLiving Intelligence_ to _PRO_ mode.
 
-Most of _BeoLiving Intelligence_ configuration and usage in _BASIC_ mode it's done through the _BeoLiving App_. This Smart Device application lets
+Most of _BeoLiving Intelligence_ configuration and usage in _ESSENTIAL_ mode it's done through the _BeoLiving App_. This Smart Device application lets
  you customize your installation and control all devices in it. _BeoLiving Intelligence_ also provides a web interface, which out of the box 
 provides Network settings and User access control management. After upgrading your controller to _BeoLiving Intelligence PRO_, the web interface 
 becomes the most important tool for installation, configuration and programming. 
 
 ## Terminology
 
-+ _BeoLiving Intelligence BASIC_: BeoLiving Intelligence in _BASIC_ mode.
++ _BeoLiving Intelligence ESSENTIAL_: BeoLiving Intelligence in _ESSENTIAL_ mode.
 + _BeoLiving Intelligence PRO_: BeoLiving Intelligence in _PRO_ mode.
 + _BLI_: Alias for BeoLiving Intelligence.
-+ _BLI BASIC_: Alias for BeoLiving Intelligence _BASIC_.
++ _BLI ESSENTIAL_: Alias for BeoLiving Intelligence _ESSENTIAL_.
 + _BLI PRO_: Alias for BeoLiving Intelligence _PRO_.
 + _BLApp_: BeoLiving App.
 + _LAN_: Local Area Network.
@@ -152,7 +152,7 @@ The initial page after accessing the _BLI_ via web browser shows two buttons: _W
 
 ### Setup interface {#setup-interface}
 
-The Setup web interface of _BLI BASIC_ does not offer a high degree of customization. In fact, this interface should be used in exceptional cases, or for upgrading your _BLI_ to _PRO_ (see section [*Upgrade to PRO*](#upgrade-pro) for further information). After performing the upgrade, the Setup web interface becomes the most important tool for configuring and programming your setup.
+The Setup web interface of _BLI ESSENTIAL_ does not offer a high degree of customization. In fact, this interface should be used in exceptional cases, or for upgrading your _BLI_ to _PRO_ (see section [*Upgrade to PRO*](#upgrade-pro) for further information). After performing the upgrade, the Setup web interface becomes the most important tool for configuring and programming your setup.
 
 An installer can access the _BLI_ setup interface with the _admin_ user, which has an unknown password by default. The Setup function 2 can be used for setting the _admin_ password to _"admin"_ for 5 minutes, and the _BLI_ will request a password update as soon as the web interface is accessed.
 
@@ -160,7 +160,7 @@ An installer can access the _BLI_ setup interface with the _admin_ user, which h
 
 <img src="pictures/bli-advanced-user-guide/basic.png" class="img-fluid" alt="Upgrade page"/>
 
-At the top menu bar, the **BASIC** access page contains information regarding your _BLI_ and _Licensing information_ (mode).
+At the top menu bar, the **ESSENTIAL** access page contains information regarding your _BLI_ and _Licensing information_ (mode).
 In _Product information_, the _License type_ shows the current license (mode) of your _BLI_, with a link for upgrading to _BLI PRO_. This link will redirect your browser to *Khimo.com* to start the upgrade process via _PayPal_.
 
 After the payment process finishes, your _BLI_ will be upgraded to _PRO_ mode within a minute approximately.

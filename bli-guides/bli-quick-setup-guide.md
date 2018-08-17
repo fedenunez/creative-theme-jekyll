@@ -102,22 +102,6 @@ Creating a group of Bang & Olufsen products lets you control all of them as if t
   </div>
 </div>
 
-## Enabling remote access
-
-_BeoLiving Intelligence_ allows you to control your products from outside your home. To do so, _Remote Access_ must be enabled:
-
-+ Go to the _Settings_ menu and select your _BeoLiving Intelligence_.
-+ Go to _Device Settings_ and press _Request Remote Access_.
-+ You can now control your products from wherever you are.
-
-<div class="row justify-content-center">
-  <div class="col-sm-5">     
-	<div class="embed-responsive" style="padding-bottom: 179%;">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9R8mR-LxnXE?autoplay=1&loop=1&playlist=9R8mR-LxnXE"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-	</div>
-  </div>
-</div>
-
 ## Controlling products with your voice
 
 Most of the functionalities you can control with the _BeoLiving App_ can also be controlled with your voice if you have an Amazon Alexa (or if you have it in your phone). For instance, you could ask Alexa to "Turn on Deezer on the M5".
@@ -132,7 +116,7 @@ combinations can be found in the IFTTT page.
 
 ## Advanced usage
 
-Continue with [BeoLiving Intelligence Advanced User Guide](bli-advanced-user-guide.md) to learn web interface configuration in _BASIC_ mode. 
+Continue with [BeoLiving Intelligence Advanced User Guide](bli-advanced-user-guide.md) to learn web interface configuration in _ESSENTIAL_ mode. 
 Also, you will find how to upgrade to _PRO_ mode, which will add even more functionalities to it and enhance your experience.
 
 Enjoy your smart home experience with _BeoLiving Intelligence_! 

@@ -5,7 +5,7 @@ layout: pagetoc
 
 ### How to upgrade _BeoLiving Intelligence_ to PRO mode?
 
-_BeoLiving Intelligence_ could be upgraded through its web interface pressing in "_BASIC_" at upper-left top bar and clicking at "_Click to 
+_BeoLiving Intelligence_ could be upgraded through its web interface pressing in "_ESSENTIAL_" at upper-left top bar and clicking at "_Click to 
 upgrade_" link in _License type_.
 
 ### How do I get my _BeoLiving Intelligence_ IP address?
@@ -113,15 +113,15 @@ _BeoLiving Intelligence_ Led color displays the actual state of your _BeoLiving 
 
 
 
-### What's the difference between _BASIC_ and _PRO_ mode?
+### What's the difference between _ESSENTIAL_ and _PRO_ mode?
 
-The next table shows the comparison between **BeoLiving Intelligence BASIC** and **BeoLiving Intelligence PRO**:
+The next table shows the comparison between **BeoLiving Intelligence ESSENTIAL** and **BeoLiving Intelligence PRO**:
 
 <table class="table">
   <thead>
     <tr style="color: #eb5946">
       <th scope="col" style="width: 40%">Features</th>
-      <th scope="col" class="text-center">BASIC</th>
+      <th scope="col" class="text-center">ESSENTIAL</th>
       <th scope="col" class="text-center">PRO</th>
     </tr>
   </thead>
