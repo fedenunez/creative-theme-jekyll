@@ -159,8 +159,8 @@ You should keep this in mind if constructing macros that simulate menu navigatio
 Mobile applications also need to know in which of these modes the
 product is configured in order to send the right commands.
 
-This configuration is done via the *Interfaces* screen on BeoLink
-Gateway. If the option is checked, BeoLink Gateway will tell the
+This configuration is done via the *Interfaces* screen on BeoLiving Intelligence. If 
+the option is checked, BeoLiving Intelligence will tell the
 mobile application that the product is controlled via the Beo4
 navigation button commands `UP`, `DOWN`, `LEFT`, `RIGHT`, `SELECT` and
 `BACK`. Otherwise it will instruct the mobile application to use the
