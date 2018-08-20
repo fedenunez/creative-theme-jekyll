@@ -105,7 +105,8 @@ Creating a group of Bang & Olufsen products lets you control all of them as if t
 ## Controlling products with your voice
 
 Most of the functionalities you can control with the _BeoLiving App_ can also be controlled with your voice if you have an Amazon Alexa (or if you have it in your phone). For instance, you could ask Alexa to "Turn on Deezer on the M5".
-To be able to do so, a linking process must be done first: please refer to [BeoLiving Intelligence Link to Third Party Cloud Service Guide](bli-link-third-party-service.md). A complete list of the available commands can be found in the Alexa skill for the _BeoLiving Intelligence_.
+To be able to do so, a linking process must be done first: please refer to [BeoLiving Intelligence Link to Third Party Cloud Service Guide](bli-link-third-party-service.md). A complete list of the available commands can be found in [Alexa usage guide](bli-alexa.md) or at the Alexa skill 
+description for the _BeoLiving Intelligence_.
 
 ## Integrating the BeoLiving Intelligence with other services
 
