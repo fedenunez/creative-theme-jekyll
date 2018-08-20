@@ -3,10 +3,129 @@ title:  BeoLiving Intelligence - FAQ
 layout: pagetoc
 ---
 
+### What's the difference between _ESSENTIAL_ and _PRO_ mode?
+
+The next table shows the comparison between **BeoLiving Intelligence ESSENTIAL** and **BeoLiving Intelligence PRO**:
+
+<table class="table">
+  <thead>
+    <tr style="color: #eb5946">
+      <th scope="col" style="width: 40%">Features</th>
+      <th scope="col" class="text-center">ESSENTIAL</th>
+      <th scope="col" class="text-center">PRO</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Control of Bang & Olufsen products</td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Control through BeoLiving App</td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Create Scenes through BeoLiving App</td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Voice control through Alexa</td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>IFTTT support</td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Integration with most popular Home Automation brands</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Web interface advanced configuration</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Control through its Web interface</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Control through Bang & Olufsen's TV's</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Bang & Olufsen Light & Control functions as Macro triggers</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Lua Macro commands</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Customization of BeoLiving App</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+  </tbody>
+</table>
+<a id="Basic"/>
+
+
 ### How to upgrade _BeoLiving Intelligence_ to PRO mode?
 
-_BeoLiving Intelligence_ could be upgraded through its web interface pressing in "_ESSENTIAL_" at upper-left top bar and clicking at "_Click to 
-upgrade_" link in _License type_.
+_BeoLiving Intelligence_ could be upgraded through its web interface pressing on "_ESSENTIAL_" at upper-left top bar and clicking at "_Click to 
+upgrade_" link in _Mode_.
 
 ### How do I get my _BeoLiving Intelligence_ IP address?
 
@@ -68,7 +187,7 @@ Sources showed in _BLApp_ are managed in the _Interface_ section of _BeoLiving I
 the specific source, check that the source has not the checkbox "_Hidden_" selected. For more information regarding configuration of user 
 interfaces check _Interfaces_ section of [BeoLiving Intelligence PRO User Guide](bli-pro-user-guide.md). 
 
-### What does the BeoLiving Intelligence_ Led color/patter means?
+### What does the _BeoLiving Intelligence_ Led color/patter means?
 
 _BeoLiving Intelligence_ Led color displays the actual state of your _BeoLiving Intelligence_. The combination between color and pattern represent an specific _BeoLiving Intelligence_ state:
 
@@ -110,101 +229,6 @@ _BeoLiving Intelligence_ Led color displays the actual state of your _BeoLiving 
     </tr>
   </tbody>
 </table>
-
-
-
-### What's the difference between _ESSENTIAL_ and _PRO_ mode?
-
-The next table shows the comparison between **BeoLiving Intelligence ESSENTIAL** and **BeoLiving Intelligence PRO**:
-
-<table class="table">
-  <thead>
-    <tr style="color: #eb5946">
-      <th scope="col" style="width: 40%">Features</th>
-      <th scope="col" class="text-center">ESSENTIAL</th>
-      <th scope="col" class="text-center">PRO</th>
-    </tr>
-  </thead>
-  <tbody>
-    <tr>
-      <td>Control of Bang & Olufsen products</td>
-      <td class="text-center">
-        <i class="fa fa-check" style="color: #eb5946"></i>
-      </td>
-      <td class="text-center">
-        <i class="fa fa-check" style="color: #eb5946"></i>
-      </td>
-    </tr>
-    <tr>
-      <td>Control through BeoLiving App</td>
-      <td class="text-center">
-        <i class="fa fa-check" style="color: #eb5946"></i>
-      </td>
-      <td class="text-center">
-        <i class="fa fa-check" style="color: #eb5946"></i>
-      </td>
-    </tr>
-    <tr>
-      <td>Voice control through Alexa</td>
-      <td class="text-center">
-        <i class="fa fa-check" style="color: #eb5946"></i>
-      </td>
-      <td class="text-center">
-        <i class="fa fa-check" style="color: #eb5946"></i>
-      </td>
-    </tr>
-    <tr>
-      <td>IFTTT support</td>
-      <td class="text-center">
-        <i class="fa fa-check" style="color: #eb5946"></i>
-      </td>
-      <td class="text-center">
-        <i class="fa fa-check" style="color: #eb5946"></i>
-      </td>
-    </tr>
-    <tr>
-      <td>Integration with most popular Home Automation brands</td>
-      <td class="text-center">
-      </td>
-      <td class="text-center">
-        <i class="fa fa-check" style="color: #eb5946"></i>
-      </td>
-    </tr>
-    <tr>
-      <td>Web interface advanced configuration</td>
-      <td class="text-center">
-      </td>
-      <td class="text-center">
-        <i class="fa fa-check" style="color: #eb5946"></i>
-      </td>
-    </tr>
-    <tr>
-      <td>Control through its Web interface</td>
-      <td class="text-center">
-      </td>
-      <td class="text-center">
-        <i class="fa fa-check" style="color: #eb5946"></i>
-      </td>
-    </tr>
-    <tr>
-      <td>Control through Bang & Olufsen's TV's</td>
-      <td class="text-center">
-      </td>
-      <td class="text-center">
-        <i class="fa fa-check" style="color: #eb5946"></i>
-      </td>
-    </tr>
-    <tr>
-      <td>Customization of BeoLiving App</td>
-      <td class="text-center">
-      </td>
-      <td class="text-center">
-        <i class="fa fa-check" style="color: #eb5946"></i>
-      </td>
-    </tr>
-  </tbody>
-</table>
-<a id="Basic"/>
 
 ### Can I controll my devices outside my house?
 

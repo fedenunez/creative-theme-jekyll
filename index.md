@@ -16,7 +16,7 @@ is directly accessible and configurable at the palm of your hand. Use the **BeoL
 Out of the box, **BeoLiving Intelligence** comes in **ESSENTIAL** mode: easy to configure, install and start living the experience. But this is just a
  sample of all what **BeoLiving Intelligence** can do: by upgrading to **BeoLiving Intelligence PRO** through a one-time paid license fee, you 
 will have access to a full professional smart home solution.
- 
+
 The next table shows the comparison between **BeoLiving Intelligence ESSENTIAL** and **BeoLiving Intelligence PRO**:
 
 <table class="table">
@@ -39,6 +39,15 @@ The next table shows the comparison between **BeoLiving Intelligence ESSENTIAL**
     </tr>
     <tr>
       <td>Control through BeoLiving App</td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Create Scenes through BeoLiving App</td>
       <td class="text-center">
         <i class="fa fa-check" style="color: #eb5946"></i>
       </td>
@@ -97,6 +106,22 @@ The next table shows the comparison between **BeoLiving Intelligence ESSENTIAL**
       </td>
     </tr>
     <tr>
+      <td>Bang & Olufsen Light & Control functions as Macro triggers</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
+      <td>Lua Macro commands</td>
+      <td class="text-center">
+      </td>
+      <td class="text-center">
+        <i class="fa fa-check" style="color: #eb5946"></i>
+      </td>
+    </tr>
+    <tr>
       <td>Customization of BeoLiving App</td>
       <td class="text-center">
       </td>
@@ -106,6 +131,7 @@ The next table shows the comparison between **BeoLiving Intelligence ESSENTIAL**
     </tr>
   </tbody>
 </table>
+<a id="Basic"/>
 <a id="Basic"/>
 
 **BeoLiving Intelligence PRO** transforms into the custom installer dream controller. With its Real-Time Configuration platform, it provides the 
