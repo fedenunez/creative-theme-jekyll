@@ -48,7 +48,7 @@ Supported commands for each device depends in its capabilities. For example, a m
   + "_Alexa, set the (LIGHT-NAME) to (COLOR)_"
   + _Description_: Sets light color
 
-## Shades
+### Shades
 
 + Turn on/off: 
   + "_Alexa, turn on/off (SHADE-NAME)_"
@@ -62,13 +62,13 @@ Supported commands for each device depends in its capabilities. For example, a m
   + "_Alexa, increase/decrease (SHADE-NAME) by (LEVEL)%_"
   + _Description_: Increases/decreases relatively shade level 
 
-## Scenes/Macros
+### Scenes/Macros
 
 + Activate/Deactivate scene:
   + "_Alexa, activate/deactivate (SCENE-NAME)_"
   + _Description_: Fires or stops macro
 
-## Themostats
+### Themostats
 
 + Turn off: 
   + "_Alexa, turn off (THERMOSTAT-NAME)_"
@@ -93,7 +93,7 @@ Supported commands for each device depends in its capabilities. For example, a m
   + _Description_: Changes thermostat mode
   + _Rules_: MODE could be any of: "Heat", "Cool", "Off", "Eco" and "Auto"
 
-## Bang & Olfusen NetworkLink devices 
+### Bang & Olfusen NetworkLink devices 
 
 + Turn on/off: 
   + "_Alexa, turn on/off (DEVICE-NAME)_"
