@@ -283,7 +283,7 @@ This feature depends on each _HA_ system driver.
 
 #### Virtual resources
 
-An example of a _Virtual Resource_ is a button on the user interface (_BLApp_, _TV overlay menu_, _Webpanel_ - see [Interfaces](#interfaces) 
+An example of a _Virtual Resource_ is a button on the user interface (_BLApp_, _TV overlay_, _Webpanel_ - see [Interfaces](#interfaces) 
 section for more information) e.g. a virtual button for cinema scene, or a boolean variable to indicate that a specific condition has been reached
 . _Virtual Resources_ makes possible to define buttons and variables of String, Integer and Boolean types for systems, without implementing these 
 directly. The _BLApp_ currently uses virtual buttons for displaying scene buttons. _Virtual Resources_ have no functionality by themselves. 
@@ -431,9 +431,10 @@ The resources to be accessed via the user interfaces are configured in this page
 
 + _BLApp_: _BLI_ specific user control application that could be installed at any _iOS_ based device.
 + _Webpanel_: User control interface accesible through _BLI_ web interface.
-+ _TV overlay menu_: User control interface accesible through any _Bang & Olufsen_ NetworkLink TV. Same layout as _Webpanel_.
++ _TV overlay_: User control interface application accesible through any _Bang & Olufsen_ NetworkLink TV as _Home Control_. Same layout as 
+_Webpanel_.
 
-Configurations are synchronized in real time towards the _Webpanel_ and the _TV overlay menu_. Synchronization with the _BLApp_ is done 
+Configurations are synchronized in real time towards the _Webpanel_ and the _TV overlay_. Synchronization with the _BLApp_ is done 
 periodically and could be forced activating **Configuration > Quick save revision**.
 
 <img src="pictures/pro-guide/interfaces.png" class="img-fluid" alt="Interfaces page"/>
