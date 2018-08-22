@@ -283,11 +283,11 @@ This feature depends on each _HA_ system driver.
 
 #### Virtual resources
 
-An example of a _Virtual Resource_ is a button on the user interface (_BLApp_, TV overlay menu, _Webpanel_) e.g. a virtual button for cinema 
-scene, or a boolean variable to indicate that a specific condition has been reached. _Virtual Resources_ makes possible to define buttons and 
-variables of String, Integer and Boolean types for systems, without implementing these directly. The _BLApp_ currently uses virtual buttons for 
-displaying scene buttons. _Virtual Resources_ have no functionality by themselves. [Macros](#macros) must be defined to link user actions on a 
-virtual resource, with events and commands in the systems.
+An example of a _Virtual Resource_ is a button on the user interface (_BLApp_, _TV overlay menu_, _Webpanel_ - see [Interfaces](#interfaces) 
+section for more information) e.g. a virtual button for cinema scene, or a boolean variable to indicate that a specific condition has been reached
+. _Virtual Resources_ makes possible to define buttons and variables of String, Integer and Boolean types for systems, without implementing these 
+directly. The _BLApp_ currently uses virtual buttons for displaying scene buttons. _Virtual Resources_ have no functionality by themselves. 
+[Macros](#macros) must be defined to link user actions on a virtual resource, with events and commands in the systems.
 
 <img src="pictures/pro-guide/resources-virtual.png" class="img-fluid" alt="Virtual resources page"/>
 
@@ -429,11 +429,12 @@ the following features:
 
 The resources to be accessed via the user interfaces are configured in this page. The user interfaces are:
 
-+ _BLApp_
-+ Overlay menus in the TVs and the Webpanel accessed from a browser.
++ _BLApp_: _BLI_ specific user control application that could be installed at any _iOS_ based device.
++ _Webpanel_: User control interface accesible through _BLI_ web interface.
++ _TV overlay menu_: User control interface accesible through any _Bang & Olufsen_ NetworkLink TV. Same layout as _Webpanel_.
 
-Configurations are synchronized in real time towards the Webpanel and the TV overlay menu. Synchronization with the _BLApp_ is done periodically 
-and could be forced activating **Configuration > Quick save revision**.
+Configurations are synchronized in real time towards the _Webpanel_ and the _TV overlay menu_. Synchronization with the _BLApp_ is done 
+periodically and could be forced activating **Configuration > Quick save revision**.
 
 <img src="pictures/pro-guide/interfaces.png" class="img-fluid" alt="Interfaces page"/>
 
