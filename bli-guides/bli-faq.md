@@ -121,7 +121,6 @@ The next table shows the comparison between **BeoLiving Intelligence ESSENTIAL**
 </table>
 <a id="Basic"/>
 
-
 ### How to upgrade _BeoLiving Intelligence_ to PRO mode?
 
 _BeoLiving Intelligence_ could be upgraded through its web interface pressing on "_ESSENTIAL_" at upper-left top bar and clicking at "_Click to 
@@ -137,6 +136,12 @@ network used by the _BeoLiving Intelligence_.
 , avahi-browse), 
 lookup for "\_hipservices.\_tcp." service and the application will discover the IP addresses of the _BeoLiving Intelligence_ in the network.
 - Access to your _LAN_ router and search for the assigned IP to _BeoLiving Intelligence_. 
+
+### How to set admin password?
+
+An installer can access to _BeoLiving Intelligence's_ setup interface with the _admin_ user, which has an unknown password by default. The Setup 
+function 2 can be used for setting the _admin_ password to _"admin"_ for 5 minutes, and the _BLI_ will request a password update as soon as the 
+web interface is accessed.
 
 ### How to link Alexa with your _BeoLiving Intelligence_?
 
