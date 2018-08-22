@@ -8,9 +8,8 @@ layout: pagetoc
 The scope of this guide comprise a full description of all available voice commands and devices you can control between _Alexa_ and _BeoLiving 
 Intelligence_. To enable this feature, _Alexa_'s skill "_BeoLiving Intelligence skill by Khimo_" must be enabled through _Alexa App_ (refer to [BeoLiving Intelligence Link to Third Party Cloud Service Guide](bli-link-third-party-service.md)). 
 
-**This feature does not depend in BeoLiving Intelligence mode (ESSENTIAL or PRO)**. If you have not upgraded your _BeoLiving Intelligence_ to _PRO_ 
-mode, then all devices apart from _Bang & Olufsen_ devices could not be controlled through _Alexa_.
-
+**This feature does not depend in BeoLiving Intelligence's mode (ESSENTIAL or PRO)**.
+ 
 ## Terminology
 
 + _BLI_: Alias for BeoLiving Intelligence.
@@ -19,8 +18,7 @@ mode, then all devices apart from _Bang & Olufsen_ devices could not be controll
 ## Discovery
 
 First step after linking _Alexa_ with your _BLI_ is to discover all devices in your configuration. Automatic discovery of all supported devices is
- done after say "_Alexa, discover my smart home devices_". _Alexa_ will get your _BLI_ configuration and save a reference to all supported 
-devices. 
+ done after say "_Alexa, discover my smart home devices_". _Alexa_ will get your _BLI_ configuration and save a reference to all supported devices. 
 
 ## Device name reference
 
@@ -39,11 +37,11 @@ Supported commands for each device depends in its capabilities. For example, a m
   + _Description_:Turns on/off light
 
 + Set brightness: 
-  + "_Alexa, dim (LIGHT-NAME) ##%_"
+  + "_Alexa, dim (LIGHT-NAME) (BRIGHTNESS)%_"
   + _Description_: Sets brightness level
 
 + Relative brightness adjust: 
-  + "_Alexa, increase/decrease (LIGHT-NAME) by ##%_"
+  + "_Alexa, increase/decrease (LIGHT-NAME) by (BRIGHTNESS)%_"
   + _Description_: Increases/decreases relatively shade level 
 
 + Set color: 
@@ -57,11 +55,11 @@ Supported commands for each device depends in its capabilities. For example, a m
   + _Description_: Raises/Lowers shade.
 
 + Set level: 
-  + "_Alexa, dim (SHADE-NAME) ##%_"
+  + "_Alexa, dim (SHADE-NAME) (LEVEL)%_"
   + _Description_: Sets shade level
 
 + Relative level adjust: 
-  + "_Alexa, increase/decrease (SHADE-NAME) by ##%_"
+  + "_Alexa, increase/decrease (SHADE-NAME) by (LEVEL)%_"
   + _Description_: Increases/decreases relatively shade level 
 
 ## Scenes/Macros
