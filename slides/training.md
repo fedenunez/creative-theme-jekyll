@@ -118,11 +118,6 @@ In a products' group, exist a master product that will be the source and volume 
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpFUk5OeHDg?autoplay=0&loop=1&playlist=zpFUk5OeHDg"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 |||
-### Feature: Request remote access
-
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9R8mR-LxnXE?autoplay=0&loop=0&playlist=9R8mR-LxnXE"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-|||
 ### Feature: Credentials content provider
 
 + Possible to set default credentials
@@ -132,6 +127,11 @@ In a products' group, exist a master product that will be the source and volume 
 Note:
 + Doesn't override existant credentials on devices or sets on devices that previously had
 + Only set credentials when detects a new device without credentials setted
+
+|||
+### Feature: Request remote access
+
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9R8mR-LxnXE?autoplay=0&loop=0&playlist=9R8mR-LxnXE"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 ----
 # Alexa
