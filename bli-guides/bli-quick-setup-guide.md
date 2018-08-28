@@ -5,7 +5,7 @@ layout: pagetoc
 
 _BeoLiving Intelligence_ is a Plug & Play home automation controller. The next steps show how to quickly set up your _BeoLiving Intelligence_.
 
-## Setting up the _BeoLiving Intelligence_
+## Setting up the _BeoLiving Intelligence_ {#setup}
 
 By default, _BeoLiving Intelligence_ comes configured in DHCP mode. This means it gets its IP address from the router it is connected to. To 
 configure a static IP address, please refer to [BeoLiving Intelligence Advanced User Guide](bli-advanced-user-guide.md).
@@ -30,7 +30,7 @@ by the serial number located at the back side of each.
 </div>
 
 
-## Adding Bang & Olufsen products
+## Adding Bang & Olufsen products {#add-products}
 
 + In the main screen of the _BeoLiving App_, select your _BeoLiving Intelligence_ and click on "Add products". A list of the supported products that are on the same network will appear.
 + Before adding a product, at least one zone (the room where the product resides) must be created. Click on "Create zone" and create one.
@@ -49,7 +49,7 @@ by the serial number located at the back side of each.
 You can **add more products to that zone, edit products name, change products from zone and create more zones** by pressing **"Edit products"**. 
 Note that only one icon per type of product will appear in the zone.
 
-## Controlling Bang & Olufsen products
+## Controlling Bang & Olufsen products {#control-products}
 
 + Select the zone that the product you want to control is in.
 + In the bottom left corner press the "Source" button. A list of all the products in the zone will appear, including the available sources.
@@ -64,7 +64,7 @@ Note that only one icon per type of product will appear in the zone.
   </div>
 </div>
 
-## Creating Scenes
+## Creating Scenes {#create-scenes}
 
 _BeoLiving Intelligence_ Scenes are the way you can control several products at the same time. For example, you can create a Scene that sets the source of a speaker on _Deezer_, while at the same time sets a TV on _YouTube_. Each time you execute the Scene those commands will be executed on your _BeoLiving Intelligence_, and what's more, you can schedule the Scene to execute at a given time or periodically, e.g.: turn on the lights and close the shades each Tuesday at 10 o'clock. To configure a Scene, follow the next steps:
 
@@ -84,7 +84,7 @@ _BeoLiving Intelligence_ Scenes are the way you can control several products at 
   </div>
 </div>
 
-## Creating Groups
+## Creating Products Groups {#products-groups}
 
 Creating a group of Bang & Olufsen products lets you control all of them as if they were one. The content that the _master_ product reproduces is reproduced as well in the rest of the products in the group. To create a group follow the next steps:
 
