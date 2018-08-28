@@ -40,7 +40,7 @@ The following video shows how to link _Alexa_ using the first method described:
 <div class="row justify-content-center">
   <div class="col-sm-5">     
 	<div class="embed-responsive" style="padding-bottom: 179%;">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/W_4cyvD2Q1Q?autoplay=1&loop=1&playlist=VSwNKgSssI8"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/W_4cyvD2Q1Q?autoplay=1&loop=1&playlist=W_4cyvD2Q1Q"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
   </div>
 </div>
