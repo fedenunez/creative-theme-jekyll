@@ -24,11 +24,10 @@ by the serial number located at the back side of each.
 <div class="row justify-content-center">
   <div class="col-sm-5">     
 	<div class="embed-responsive" style="padding-bottom: 179%;">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3vyf8GKIrww?autoplay=1&loop=1&playlist=3vyf8GKIrww"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7Sa3cIVKDeA?autoplay=1&loop=1&playlist=7Sa3cIVKDeA"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
   </div>
 </div>
-
 
 ## Adding Bang & Olufsen products {#add-products}
 
@@ -40,7 +39,7 @@ by the serial number located at the back side of each.
 <div class="row justify-content-center">
   <div class="col-sm-5">     
 	<div class="embed-responsive" style="padding-bottom: 179%;">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9edtGSMGeNg?autoplay=1&loop=1&playlist=9edtGSMGeNg"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kxKkUu6QZVI?autoplay=1&loop=1&playlist=kxKkUu6QZVI"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
   </div>
 </div>
@@ -59,7 +58,7 @@ Note that only one icon per type of product will appear in the zone.
 <div class="row justify-content-center">
   <div class="col-sm-5">     
 	<div class="embed-responsive" style="padding-bottom: 179%;">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VlGNc97i_pU?autoplay=1&loop=1&playlist=VlGNc97i_pU"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/YiecxJ7fW_c?autoplay=1&loop=1&playlist=YiecxJ7fW_c"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
   </div>
 </div>
@@ -79,7 +78,7 @@ _BeoLiving Intelligence_ Scenes are the way you can control several products at 
 <div class="row justify-content-center">
   <div class="col-sm-5">     
 	<div class="embed-responsive" style="padding-bottom: 179%;">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpFUk5OeHDg?autoplay=1&loop=1&playlist=zpFUk5OeHDg"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/R1-aekRwmR0?autoplay=1&loop=1&playlist=R1-aekRwmR0"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
   </div>
 </div>
@@ -97,7 +96,28 @@ Creating a group of Bang & Olufsen products lets you control all of them as if t
 <div class="row justify-content-center">
   <div class="col-sm-5">     
 	<div class="embed-responsive" style="padding-bottom: 179%;">
-	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VSwNKgSssI8?autoplay=1&loop=1&playlist=VSwNKgSssI8"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/q04J8CAvP10?autoplay=1&loop=1&playlist=q04J8CAvP10"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+	</div>
+  </div>
+</div>
+
+## Set content provider credentials {#set-credentials}
+
+A new feature that comes with _BeoLiving Intelligence_ included in both of its modes, is the ability to set content providers credentials (
+_TuneIn_ and _Deezer_) to all _Bang & Olufsen_ devices. _BeoLiving Intelligence_ will set credentials to every discovered device that has not been
+setted previously (this mean that _BeoLiving Intelligence_ does not override existing credentials). To set content provider credentials follow the
+ next steps:
+
++ Go to the _Settings_ menu and select your _BeoLiving Intelligence_.
++ Go to _Device Settings_ and choose the content provider in _Accounts_.
++ Insert credentials and press _Login_.
++ _STATUS_ will display credentials state. _BeoLiving Intelligence_ will verify if inserted credentials are valid or not after send them to a 
+detected device without credentials. 
+
+<div class="row justify-content-center">
+  <div class="col-sm-5">     
+	<div class="embed-responsive" style="padding-bottom: 179%;">
+	  <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1Tab-Vqt4ZA?autoplay=1&loop=1&playlist=1Tab-Vqt4ZA"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 	</div>
   </div>
 </div>
@@ -108,12 +128,14 @@ Most of the functionalities you can control with the _BeoLiving App_ can also be
 To be able to do so, a linking process must be done first: please refer to [BeoLiving Intelligence Link to Third Party Cloud Service Guide](bli-link-third-party-service.md). A complete list of the available commands can be found in [Alexa usage guide](bli-alexa.md) or at the Alexa skill 
 description for the _BeoLiving Intelligence_.
 
+<!--
 ## Integrating the BeoLiving Intelligence with other services
 
 _BeoLiving Intelligence_ supports IFTTT, enabling the integration of it with different services. For example, you could configure it to change the
  source of a TV by sending an email, and many other combinations. A linking process very similar to the one for Alexa has to be made first, please
  refer to [BeoLiving Intelligence Link to Third Party Cloud Service Guide](bli-link-third-party-service.md). A complete list of the available 
 combinations can be found in the IFTTT page.
+-->
 
 ## Advanced usage
 
