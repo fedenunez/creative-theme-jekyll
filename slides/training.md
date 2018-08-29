@@ -86,12 +86,12 @@ Note:
 |||
 ### Feature: Login without password 
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3vyf8GKIrww?autoplay=0&loop=1&playlist=3vyf8GKIrww&start=24"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7Sa3cIVKDeA?autoplay=1&loop=1&playlist=7Sa3cIVKDeA"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 |||
 ### Feature: Assign products
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9edtGSMGeNg?autoplay=0&loop=1&playlist=9edtGSMGeNg"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kxKkUu6QZVI?autoplay=1&loop=1&playlist=kxKkUu6QZVI"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Note:
 - Edit product name its possible in the last version 
@@ -110,15 +110,10 @@ In a products' group, exist a master product that will be the source and volume 
 |||
 ### Feature:  Create products groups (2/2)
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/VSwNKgSssI8?autoplay=0&loop=1&playlist=VSwNKgSssI8"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/q04J8CAvP10?autoplay=1&loop=1&playlist=q04J8CAvP10"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 |||
-### Feature:  Create scenes
-
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zpFUk5OeHDg?autoplay=0&loop=1&playlist=zpFUk5OeHDg"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
-
-|||
-### Feature: Credentials content provider
+### Feature: Credentials content provider (1/2)
 
 + Possible to set default credentials
 + BLI sets automatically credentials to new devices
@@ -129,9 +124,17 @@ Note:
 + Only set credentials when detects a new device without credentials setted
 
 |||
+### Feature: Credentials content provider (2/2)
+
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1Tab-Vqt4ZA?autoplay=1&loop=1&playlist=1Tab-Vqt4ZA"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+|||
 ### Feature: Request remote access
 
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9R8mR-LxnXE?autoplay=0&loop=0&playlist=9R8mR-LxnXE"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+
+Note:
+Only in PRO mode.
 
 ----
 # Alexa
@@ -160,21 +163,19 @@ Note:
 
 #### BeoLiving App goes to foreground
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w7Ck3V6DtEw?autoplay=0&loop=1&playlist=9R8mR-LxnXE"  frameborder="0" width="800" height="450" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/W_4cyvD2Q1Q?autoplay=0&loop=1&playlist=W_4cyvD2Q1Q"  frameborder="0" width="800" height="450" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 |||
 ## Linking Alexa (3/4)
 
-#### Scan QR code with BeoLiving App
+### Scan QR code with BeoLiving App
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w7Ck3V6DtEw?autoplay=0&loop=1&playlist=9R8mR-LxnXE"  frameborder="0" width="800" height="450" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/IJ44nvO0l6Y?autoplay=0&loop=1&playlist=IJ44nvO0l6Y"  frameborder="0" width="800" height="450" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 |||
 ## Linking Alexa (4/4)
 
-#### Legacy User/Password login
-
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/w7Ck3V6DtEw?autoplay=0&loop=1&playlist=9R8mR-LxnXE"  frameborder="0" width="800" height="450" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+#### Legacy User/Password login for BeoLink Gateway users
 
 |||
 ### Alexa Tips
