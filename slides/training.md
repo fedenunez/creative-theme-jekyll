@@ -14,7 +14,7 @@ layout: slides
 #### uses the core of BeoLink Gateway but is designed for a wider audience <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note:
-  - Meaning that if you are familiar with BeoLink Gateway you will be too with BeoLiving Intelligence
+- Meaning that if you are familiar with BeoLink Gateway you will be too with BeoLiving Intelligence
 
 ----
 ## BeoLiving Intelligence
@@ -29,34 +29,34 @@ Note:
 #### 4 times faster than BLGW <!-- .element: class="fragment" data-fragment-index="2" -->
 
 Note:
-  - ESSENTIAL: An entry home controller (From factory) 
-  - PRO: BeoLink Gateway + free remote access + new goodies (must buy an upgrade) 
++ ESSENTIAL mode comes from factory
 
 ----
 ### ESSENTIAL (1/2)
 
 - Designed for the end-user (*Plug & Play*)
 - Fully configurable from the *BeoLiving App*
-- Automatically adds B&O resources
-- Improves security: password less
+- Automatically adds B&O devices
+- Password less: improves security
 
 Note:
-+ BLI its designed for the end user. Out of the box, could be setted up by some non-technical easy steps.
++ Designed for the end-user, meaning that you don't need any technical knowledge
 
 ----
 ### ESSENTIAL (2/2)
  
-- Credentials content provider
+- Set content provider credentials
 - Products groups
 - Alexa
 - Automatic firmware upgrade
 
 Note:
 - Features explained later
-- Some HA systems will be added in the future
 - Most of the configuration is done through BeoLiving App
 - Web interface is completely limited. Network settings, Project info, User management, Firmware update and Service report are available. 
 Configuration upload/download is not supported
+- HA systems are blocked
+- Some HA systems will be added in the future
 
 ----
 ## PRO
@@ -67,10 +67,9 @@ Configuration upload/download is not supported
 - One-time payment for PRO mode upgarde
 
 Note:
+- This upgrade is done through BLI web interface. 
 - BLI PRO mode will unlock the rest of its capabilities. 
-- This upgrade is done through BLI web interface that redirects to PayPal. 
-- We are thinking in to add a way to upgrade through BeoLiving App 
-- Besides "global" zone, now there is one more default zone called "unassigned-resources" where all NetworkLink devices are added.
+- Its web interface and configuration is practically the same as BeoLink Gateway
 
 ----
 ## What will not work!
@@ -78,23 +77,31 @@ Note:
 - MasterLink devices
 - Beo4 and BeoRemote One commands
 - Manual sources
-- The admin password
+- The default admin password
+
+Note:
++ By default, admin password is unknown. To set it to a known password, button function 2 must be entered. This will set admin password to "admin"for the next 5 minutes. Then, you must enter to its web interface and at first you will be asked to set a new admin password.
++ This decision is based in security matters.
+
 
 ----
 ## Some features
 
-|||
-### Feature: Login without password 
-
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7Sa3cIVKDeA?autoplay=1&loop=1&playlist=7Sa3cIVKDeA"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+Note:
+Now, I'll show you some videos explaining how to configure and use these new features
 
 |||
-### Feature: Assign products
+#### Feature: Login without password 
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kxKkUu6QZVI?autoplay=1&loop=1&playlist=kxKkUu6QZVI"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7Sa3cIVKDeA?autoplay=0&loop=1&playlist=7Sa3cIVKDeA"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Note:
-- Edit product name its possible in the last version 
+
+
+|||
+#### Feature: Assign products
+
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kxKkUu6QZVI?autoplay=0&loop=1&playlist=kxKkUu6QZVI"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 |||
 ### Feature:  Create products groups (1/2)
@@ -102,36 +109,35 @@ Note:
 + Statically link NetworkLink products
 + A product group behaves as one device
 + Same source, same volume in the group
-+ Solution for big rooms/installations
++ Solution for big rooms/ambients
 
 Note:
-In a products' group, exist a master product that will be the source and volume reference of the group and the rest of the grouped products will follow any source/volume change of master automatically. BeoLiving App will only show the master.
++ In a products' group, exist a master product that will be the source and volume reference of the group and the rest of the grouped products will follow any source/volume change of master automatically. BeoLiving App will only show the master.
 
 |||
-### Feature:  Create products groups (2/2)
+#### Feature:  Create products groups (2/2)
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/q04J8CAvP10?autoplay=1&loop=1&playlist=q04J8CAvP10"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/q04J8CAvP10?autoplay=0&loop=1&playlist=q04J8CAvP10"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 |||
 ### Feature: Credentials content provider (1/2)
 
-+ Possible to set default credentials
 + BLI sets automatically credentials to new devices
 + Previously credentials setting was done manually for each product
 
 Note:
-+ Doesn't override existant credentials on devices or sets on devices that previously had
++ Doesn't override existant credentials on devices
 + Only set credentials when detects a new device without credentials setted
 
 |||
-### Feature: Credentials content provider (2/2)
+#### Feature: Credentials content provider (2/2)
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1Tab-Vqt4ZA?autoplay=1&loop=1&playlist=1Tab-Vqt4ZA"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/1Tab-Vqt4ZA?autoplay=0&loop=1&playlist=1Tab-Vqt4ZA"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 |||
-### Feature: Request remote access
+#### Feature: Request remote access
 
-<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9R8mR-LxnXE?autoplay=0&loop=0&playlist=9R8mR-LxnXE"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/9R8mR-LxnXE?autoplay=0&loop=1&playlist=9R8mR-LxnXE"  frameborder="0" height="570" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
 Note:
 Only in PRO mode.
@@ -172,6 +178,9 @@ Note:
 
 <iframe class="embed-responsive-item" src="https://www.youtube.com/embed/IJ44nvO0l6Y?autoplay=0&loop=1&playlist=IJ44nvO0l6Y"  frameborder="0" width="800" height="450" allow="autoplay; encrypted-media" allowfullscreen></iframe>
 
+Note:
+If you start the linking procedure using your laptop or any other device that hasn't installed BLApp you can scan a QR code with it
+
 |||
 ## Linking Alexa (4/4)
 
@@ -194,9 +203,6 @@ Note:
 - ESSENTIAL from factory
 - Khimo cloud from factory
 - PRO is compatible with BLGW config
-
-Note:
-+ By default, admin user has an unknown password. Inserting button function 2, will set admin password to "admin" for the next 5 minutes. This decision is based in security matters.
 
 ----
 ### Service troubleshooting & Recovery mode guide
