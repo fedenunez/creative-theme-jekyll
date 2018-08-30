@@ -210,6 +210,10 @@ Note:
 - ECON usb to get service report
 - Service magic USB to recovery a "DEAD" box
 
+Note:
++ Useful when web interfaces is broken or dead and its not possible to create a service report.
++ Recovery: insert pendrive with specific .zip file and BLI will boot from that pendrive. Will erase all configuration and download the last firmware.
+
 ----
 ### Documentation
 
