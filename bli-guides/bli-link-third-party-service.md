@@ -21,6 +21,7 @@ For each third party cloud service, linking process starts as follows:
 
 + **Alexa**: using _Alexa App_ or entering at _alexa.amazon.com_, go to _Skills_ and search "_BeoLiving Intelligence skill by Khimo_". Press 
 _Enable Skill_ button.
+
 <!--
 + **IFTTT**: using _IFTTT_ App or entering at _ifttt.com_, search by service "_BeoLink Gateway_". Press _Connect_ button.
 -->
