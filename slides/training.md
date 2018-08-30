@@ -189,11 +189,11 @@ If you start the linking procedure using your laptop or any other device that ha
 |||
 ### Alexa Tips
 
++ Alexa's device identifier name = "_Zone name_" +  "_Device name_"
 + Devices names should be chosen properly
 + Create scenes for most frequent use cases or as a workaround if Alexa doesn't understand an instruction.
 
 Note:
-+ Alexa's device name = ¨Zone name¨ + ¨Device name¨
 + Source selection sometimes becomes un-useful if device names or source name are complicated
 
 ----
