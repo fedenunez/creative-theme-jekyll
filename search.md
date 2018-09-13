@@ -1,6 +1,6 @@
 ---
 title: Search
-layout: page
+layout: default
 ---
 
 <div class="row justify-content-md-center">
