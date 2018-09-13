@@ -5,7 +5,7 @@ layout: default
 
 <div class="row justify-content-md-center">
     <div class="col-lg-12"> 
-     <div align="center"> 
+     <div> 
 <script>
   (function() {
     var cx = '013699539259489831773:d7hmw2ayifs';
