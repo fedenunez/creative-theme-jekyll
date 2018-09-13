@@ -1,8 +1,7 @@
 ---
-layout:page
-title:Search
+title: Search
+layout: page
 ---
-
 
 <div class="row justify-content-md-center">
     <div class="col-lg-12"> 
