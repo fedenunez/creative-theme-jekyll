@@ -1,3 +1,7 @@
+
+<div class="row justify-content-md-center bg-primary">
+    <div class="col-lg-12"> 
+     <div align="center"> 
 <script>
   (function() {
     var cx = '013699539259489831773:d7hmw2ayifs';
@@ -9,10 +13,6 @@
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<div class="row justify-content-md-center bg-primary">
-    <div class="col-lg-4"> 
-     <div align="center"> 
-         <gcse:search></gcse:search>
-      </div>
+<gcse:search></gcse:search>      </div>
     </div>
 </div>
