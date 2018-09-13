@@ -1,4 +1,4 @@
-<div class=<script>
+<script>
   (function() {
     var cx = '013699539259489831773:d7hmw2ayifs';
     var gcse = document.createElement('script');
