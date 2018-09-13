@@ -139,9 +139,7 @@ lookup for "\_hipservices.\_tcp." service and the application will discover the 
 
 ### How to set admin password?
 
-An installer can access to _BeoLiving Intelligence's_ setup interface with the _admin_ user, which has an unknown password by default. The Setup 
-function 2 can be used for setting the _admin_ password to _"admin"_ for 5 minutes, and the _BLI_ will request a password update as soon as the 
-web interface is accessed.
+An installer can access to _BeoLiving Intelligence's_ web setup interface with the _admin_ user, which is disabled by default. The Setup button function [2](bli-advanced-user-guide.md#button-functions) can be used to enable and set the _admin_ password to _"admin"_ for 5 minutes, as soon as you login you should change that password to make it permanent.
 
 ### How to link Alexa with your _BeoLiving Intelligence_?
 
