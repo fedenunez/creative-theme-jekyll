@@ -9,7 +9,7 @@
     s.parentNode.insertBefore(gcse, s);
   })();
 </script>
-<div class="row justify-content-md-center">
+<div class="row justify-content-md-center bg-primary">
     <div class="col-lg-4"> 
      <div align="center"> 
          <gcse:search></gcse:search>
