@@ -38,7 +38,7 @@ TODO: Diagram
 
 Setup interface is the most important tool for configuration/programming of your _BLI PRO_. The following sections will guide you through the entire web interface configuration tool.  
 
-In _BLI PRO_ exists a special user _admin_ meant for installer/technician usage. By default, _admin_ password is unknown due to security purposes. To make use of the Setup interface, password for _admin_ user must be resetted by activating the Setup button function (2). After a successfully button function input, _admin_ password will be _"admin"_ during the next 5 mintues (also for security purposes) and after logging in you will be asked to change it.
+In _BLI PRO_ exists a special user _admin_ meant for installer/technician usage. By default, _admin_ password is disabled for security reasons. To make use of the Setup interface, password for _admin_ user must be resetted by activating the Setup button function [2](bli-advanced-user-guide.md#button-functions). After a successfully button function input, _admin_ password will be _"admin"_ during the next 5 mintues (also for security purposes) and after logging in you will be asked to change it.
 
 ### Project info
 
