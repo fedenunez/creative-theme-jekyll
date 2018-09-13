@@ -1,6 +1,6 @@
 ---
 title: BeoLiving Intelligence Alexa's skill Guide
-layout: pagetoc
+layout: default
 ---
 
 ## Introduction
