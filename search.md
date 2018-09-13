@@ -1,5 +1,10 @@
+---
+layout:page
+title:Search
+---
 
-<div class="row justify-content-md-center bg-primary">
+
+<div class="row justify-content-md-center">
     <div class="col-lg-12"> 
      <div align="center"> 
 <script>
